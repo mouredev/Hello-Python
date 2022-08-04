@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
-##Proyecto realizado durante las emisiones en directo desde Twitch para aprender Python desde cero
+## Proyecto realizado durante las emisiones en directo desde Twitch para aprender Python desde cero
 
 ### Clases en vídeo
 * Clase 1 (03/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1551265068)
@@ -34,8 +34,7 @@
 * [Juego Codédex para aprender Python](https://www.codedex.io/)
 * [Visual Studio Code](https://code.visualstudio.com/): El editor que estoy usando
 
-
--
+---
 
 Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
 
