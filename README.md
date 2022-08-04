@@ -7,6 +7,8 @@
 ### Clases en vídeo
 * Clase 1 (03/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1551265068)
 	* Contexto, instalación, configuración, hola mundo y variables.
+* **🔴 PRÓXIMA CLASE: Miércoles 10 de Agosto a las 20:00 (hora España)**
+	* En [Discord](https://discord.gg/mouredev) tienes creado un evento para que consultes la hora de tu país.
 
 ### Información importante y preguntas frecuentes
 
@@ -24,7 +26,7 @@
 
 * **¿Cuándo será la próxima clase?**
 	* Te recomiendo que me sigas en redes, sobre todo en [Discord](https://discord.gg/mouredev) e [Instagram](https://instagram.com/mouredev) donde creo eventos a diario con la hora de emisión (así podrás ver qué hora es en tu país).
-	* También he creado en el Discrod un canal "Python" para que puedas comentar lo que quieras.
+	* También he creado en el Discord un canal "Python" para que puedas comentar lo que quieras.
 	* Una vez finalizada la clase subiré los ficheros de código a este repositorio.
 
 ### Enlaces de interés
