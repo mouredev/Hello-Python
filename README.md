@@ -4,6 +4,11 @@
 
 ## Proyecto realizado durante las emisiones en directo desde Twitch para aprender Python desde cero
 
+### 🐍 CADA SEMANA UNA NUEVA CLASE EN DIRECTO 🐍
+*Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
+
+---
+
 ### Clases en vídeo
 * Clase 1 (03/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1551265068)
 	* Contexto, instalación, configuración, hola mundo y variables.
