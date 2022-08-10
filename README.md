@@ -15,6 +15,8 @@
 * **🔴 PRÓXIMA CLASE: Miércoles 10 de Agosto a las 20:00 (hora España)**
 	* En [Discord](https://discord.gg/mouredev) tienes creado un evento para que consultes la hora de tu país.
 
+---
+
 ### Información importante y preguntas frecuentes
 
 * **¿Las clases quedan grabadas?**
@@ -33,6 +35,8 @@
 	* Te recomiendo que me sigas en redes, sobre todo en [Discord](https://discord.gg/mouredev) e [Instagram](https://instagram.com/mouredev) donde creo eventos a diario con la hora de emisión (así podrás ver qué hora es en tu país).
 	* También he creado en el Discord un canal "Python" para que puedas comentar lo que quieras.
 	* Una vez finalizada la clase subiré los ficheros de código a este repositorio.
+
+---
 
 ### Enlaces de interés
 * [Web oficial de Python](https://www.python.org/)
