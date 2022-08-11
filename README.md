@@ -12,8 +12,10 @@
 ### Clases en vídeo
 * Clase 1 (03/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1551265068)
 	* Contexto, instalación, configuración, hola mundo y variables.
-* **🔴 PRÓXIMA CLASE: Miércoles 10 de Agosto a las 20:00 (hora España)**
-	* En [Discord](https://discord.gg/mouredev) tienes creado un evento para que consultes la hora de tu país.
+* Clase 2 (10/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1558018826)
+	* Operadores y Strings.
+* **🔴 PRÓXIMA CLASE: Miércoles 17 de Agosto a las 20:00 (hora España)**
+	* En [Discord](https://discord.gg/PkpmuVcx?event=1007285935941099600) tienes creado un evento para que consultes la hora de tu país y añadas un recordatorio.
 
 ---
 

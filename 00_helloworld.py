@@ -1,5 +1,6 @@
+# Clase 1 (03/08/22) en directo desde Twitch: https://www.twitch.tv/videos/1551265068
+
 ### Hola Mundo ###
-# Clase en directo desde Twitch: https://www.twitch.tv/videos/1551265068
 
 # Nuestro hola mundo en Python
 print("Hola Python")

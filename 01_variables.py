@@ -1,5 +1,6 @@
+# Clase 1 (03/08/22) en directo desde Twitch: https://www.twitch.tv/videos/1551265068
+
 ### Variables ###
-# Clase en directo desde Twitch: https://www.twitch.tv/videos/1551265068
 
 my_string_variable = "My String variable"
 print(my_string_variable)
