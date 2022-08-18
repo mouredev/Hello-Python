@@ -5,17 +5,24 @@
 ## Proyecto realizado durante las emisiones en directo desde Twitch para aprender Python desde cero
 
 ### 🐍 CADA SEMANA UNA NUEVA CLASE EN DIRECTO 🐍
-*Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
+#####Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
----
+> ---
+> **🔴 PRÓXIMA CLASE: Miércoles 24 de Agosto a las 20:00 (hora España)**
+> 
+> En [Discord](https://discord.gg/adD2PyFq?event=1009762258773082182) tienes creado un evento para que consultes la hora de tu país y añadas un recordatorio.
+> 
+> *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
+> 
+> ---
 
 ### Clases en vídeo
 * Clase 1 (03/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1551265068)
 	* Contexto, instalación, configuración, hola mundo y variables.
 * Clase 2 (10/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1558018826)
 	* Operadores y Strings.
-* **🔴 PRÓXIMA CLASE: Miércoles 17 de Agosto a las 20:00 (hora España)**
-	* En [Discord](https://discord.gg/PkpmuVcx?event=1007285935941099600) tienes creado un evento para que consultes la hora de tu país y añadas un recordatorio.
+* Clase 3 (17/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1564719056)
+	* Listas y tuplas.
 
 ---
 
@@ -25,10 +32,10 @@
 	* Todos los directos de Twitch están disponibles 60 días en la sección [vídeos](https://twitch.tv/mouredev/videos).
 
 * **¿Se subirá a YouTube?**
-	* Si crees que los 60 días no son suficientes, dímelo e intentaré subirlo.
+	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases en YouTube.
 
 * **¿Harás un curso?**
-	* Si la serie en Twitch recibe apoyo puedo plantearme crear algún vídeo de iniciación en YouTube.
+	* Si la serie en Twitch recibe apoyo puedo plantearme crear algún vídeo de iniciación resumiendo los conceptos en YouTube.
 
 * **¿Hasta dónde llegará el curso?**
 	* Mi idea es repasar los conceptos básicos hasta llegar a crear un backend (en principio).
