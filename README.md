@@ -5,7 +5,7 @@
 ## Proyecto realizado durante las emisiones en directo desde Twitch para aprender Python desde cero
 
 ### 🐍 CADA SEMANA UNA NUEVA CLASE EN DIRECTO 🐍
-#####Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
+##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
 > **🔴 PRÓXIMA CLASE: Miércoles 24 de Agosto a las 20:00 (hora España)**
