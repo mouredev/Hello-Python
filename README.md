@@ -8,9 +8,9 @@
 #####Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Miércoles 24 de Agosto a las 20:00 (hora España)**
+> **🔴 PRÓXIMA CLASE: Miércoles 31 de Agosto a las 20:00 (hora España)**
 > 
-> En [Discord](https://discord.gg/adD2PyFq?event=1009762258773082182) tienes creado un evento para que consultes la hora de tu país y añadas un recordatorio.
+> En [Discord](https://discord.gg/B4SGGAQqKZ?event=1012325339160125491) tienes creado un evento para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
 > 
@@ -23,6 +23,8 @@
 	* Operadores y Strings.
 * Clase 3 (17/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1564719056)
 	* Listas y tuplas.
+* Clase 4 (24/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1571410092)
+	* Sets y diccionarios.
 
 ---
 
