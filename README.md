@@ -8,9 +8,11 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Miércoles 31 de Agosto a las 20:00 (hora España)**
+> **🔴 PRÓXIMA CLASE: Viernes 9 de Agosto a las 16:00 (hora España)**
 > 
-> En [Discord](https://discord.gg/B4SGGAQqKZ?event=1012325339160125491) tienes creado un evento para que consultes la hora de tu país y añadas un recordatorio.
+> Esta semana coincide a viernes ya que tenemos otros eventos en directo planificados.
+> 
+> En [Discord](https://discord.gg/U3KjjfUfUJ?event=1014784271455625236) tienes creado un [evento](https://discord.gg/U3KjjfUfUJ?event=1014784271455625236) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
 > 
@@ -25,6 +27,8 @@
 	* Listas y tuplas.
 * Clase 4 (24/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1571410092)
 	* Sets y diccionarios.
+* Clase 5 (31/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1578036618)
+	* Condicionales y bucles.
 
 ---
 
@@ -34,7 +38,7 @@
 	* Todos los directos de Twitch están disponibles 60 días en la sección [vídeos](https://twitch.tv/mouredev/videos).
 
 * **¿Se subirá a YouTube?**
-	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases en YouTube.
+	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases en YouTube editadas.
 
 * **¿Harás un curso?**
 	* Si la serie en Twitch recibe apoyo puedo plantearme crear algún vídeo de iniciación resumiendo los conceptos en YouTube.
@@ -44,7 +48,7 @@
 
 * **¿Cuándo será la próxima clase?**
 	* Te recomiendo que me sigas en redes, sobre todo en [Discord](https://discord.gg/mouredev) e [Instagram](https://instagram.com/mouredev) donde creo eventos a diario con la hora de emisión (así podrás ver qué hora es en tu país).
-	* También he creado en el Discord un canal "Python" para que puedas comentar lo que quieras.
+	* También he creado en el Discord un canal "🐍curso-python" para que puedas comentar lo que quieras.
 	* Una vez finalizada la clase subiré los ficheros de código a este repositorio.
 
 ---
