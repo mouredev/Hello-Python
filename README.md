@@ -8,7 +8,7 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Viernes 9 de Agosto a las 16:00 (hora España)**
+> **🔴 PRÓXIMA CLASE: Jueves 8 de Agosto a las 18:00 (hora España)**
 > 
 > Esta semana coincide a viernes ya que tenemos otros eventos en directo planificados.
 > 
