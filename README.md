@@ -10,8 +10,6 @@
 > ---
 > **🔴 PRÓXIMA CLASE: Jueves 8 de Agosto a las 18:00 (hora España)**
 > 
-> Esta semana coincide a viernes ya que tenemos otros eventos en directo planificados.
-> 
 > En [Discord](https://discord.gg/U3KjjfUfUJ?event=1014784271455625236) tienes creado un [evento](https://discord.gg/U3KjjfUfUJ?event=1014784271455625236) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
@@ -70,7 +68,7 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 
 [![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
 
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
 ### Freelance full-stack iOS & Android engineer
