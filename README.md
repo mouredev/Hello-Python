@@ -8,7 +8,7 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Jueves 15 de Agosto a las 20:00 (hora España)**
+> **🔴 PRÓXIMA CLASE: Jueves 15 de Septiembre a las 20:00 (hora España)**
 > 
 > En [Discord](https://discord.gg/CY7zTpbQ?event=1017723765368553562) tienes creado un [evento](https://discord.gg/CY7zTpbQ?event=1017723765368553562) para que consultes la hora de tu país y añadas un recordatorio.
 > 
