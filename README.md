@@ -8,9 +8,11 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Jueves 15 de Septiembre a las 20:00 (hora España)**
+> **🔴 PRÓXIMA CLASE: Jueves 29 de Septiembre a las 20:00 (hora España)**
 > 
-> En [Discord](https://discord.gg/CY7zTpbQ?event=1017723765368553562) tienes creado un [evento](https://discord.gg/CY7zTpbQ?event=1017723765368553562) para que consultes la hora de tu país y añadas un recordatorio.
+> Nos tomamos un pequeño descanso ya que estaré de viaje. ¡Aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022)!
+> 
+> En [Discord](https://discord.gg/U3KjjfUfUJ?event=1020321837353287740) tienes creado un [evento](https://discord.gg/U3KjjfUfUJ?event=1020321837353287740) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
 > 
@@ -29,6 +31,8 @@
 	* Condicionales y bucles.
 * Clase 6 (08/09/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1585369113)
 	* Funciones y clases.
+* Clase 7 (15/09/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1591757464)
+	* Excepciones y módulos.
 
 ---
 
