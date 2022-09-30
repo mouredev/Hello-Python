@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
-## Proyecto realizado durante las emisiones en directo desde Twitch para aprender Python desde cero
+## Proyecto realizado durante las emisiones en directo desde [Twitch](https://twitch.tv/mouredev) para aprender Python desde cero
 
 ### 🐍 CADA SEMANA UNA NUEVA CLASE EN DIRECTO 🐍
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
@@ -18,25 +18,34 @@
 > 
 > ---
 
-### Clases en vídeo
-* Clase 1 (03/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1551265068)
-	* Contexto, instalación, configuración, hola mundo y variables.
-* Clase 2 (10/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1558018826)
-	* Operadores y Strings.
-* Clase 3 (17/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1564719056)
-	* Listas y tuplas.
-* Clase 4 (24/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1571410092)
-	* Sets y diccionarios.
-* Clase 5 (31/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1578036618)
-	* Condicionales y bucles.
-* Clase 6 (08/09/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1585369113)
-	* Funciones y clases.
-* Clase 7 (15/09/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1591757464)
-	* Excepciones y módulos.
+## Clases en vídeo
 
----
+### Curso de fundamentos desde cero
 
-### Información importante y preguntas frecuentes
+Curso que agrupa todas las clases en directo que hacen referencia a los fundamentos de Python.
+
+<a href="https://youtu.be/Kp4Mvapo5kc"><img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+* [Introducción](https://youtu.be/Kp4Mvapo5kc)
+* [Contexto](https://youtu.be/Kp4Mvapo5kc?t=244)
+* [Lección 1 - Configuración](https://youtu.be/Kp4Mvapo5kc?t=850)
+* [Lección 2 - Hola Mundo](https://youtu.be/Kp4Mvapo5kc?t=1518)
+* [Lección 3 - Variables](https://youtu.be/Kp4Mvapo5kc?t=2938)
+* [Lección 4 - Operadores](https://youtu.be/Kp4Mvapo5kc?t=5665)
+* [Lección 5 - Strings](https://youtu.be/Kp4Mvapo5kc?t=8643)
+* [Lección 6 - Listas](https://youtu.be/Kp4Mvapo5kc?t=10872)
+* [Lección 7 - Tuplas](https://youtu.be/Kp4Mvapo5kc?t=14711)
+* [Lección 8 - Sets](https://youtu.be/Kp4Mvapo5kc?t=16335)
+* [Lección 9 - Diccionarios](https://youtu.be/Kp4Mvapo5kc)
+* [Lección 10 - Condicionales](https://youtu.be/Kp4Mvapo5kc?t=21442)
+* [Lección 11 - Bucles/Loops/Ciclos](https://youtu.be/Kp4Mvapo5kc?t=23822)
+* [Lección 12 - Funciones](https://youtu.be/Kp4Mvapo5kc?t=26619)
+* [Lección 13 - Clases](https://youtu.be/Kp4Mvapo5kc?t=29327)
+* [Lección 14 - Excepciones](https://youtu.be/Kp4Mvapo5kc?t=32030)
+* [Lección 15 - Módulos](https://youtu.be/Kp4Mvapo5kc?t=34583)
+* [Próximos pasos](https://youtu.be/Kp4Mvapo5kc?t=36390)
+
+## Información importante y preguntas frecuentes
 
 * **¿Las clases quedan grabadas?**
 	* Todos los directos de Twitch están disponibles 60 días en la sección [vídeos](https://twitch.tv/mouredev/videos).
@@ -45,7 +54,7 @@
 	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases en YouTube editadas.
 
 * **¿Harás un curso?**
-	* Si la serie en Twitch recibe apoyo puedo plantearme crear algún vídeo de iniciación resumiendo los conceptos en YouTube.
+	* Agruparé lecciones en YouTube para crear cursos por nivel. Actualmente ya existe el de [fundamentos desde cero](https://youtu.be/Kp4Mvapo5kc).
 
 * **¿Hasta dónde llegará el curso?**
 	* Mi idea es repasar los conceptos básicos hasta llegar a crear un backend (en principio).
