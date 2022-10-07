@@ -1,4 +1,4 @@
-# Clase 3 (17/08/22) en directo desde Twitch: https://www.twitch.tv/videos/1564719056
+# TODO: ACTUALIZAR!!
 
 ### Tuples ###
 

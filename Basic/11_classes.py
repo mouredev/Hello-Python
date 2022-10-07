@@ -1,4 +1,4 @@
-# Clase 6 (08/09/22) en directo desde Twitch: https://www.twitch.tv/videos/1585369113
+# TODO: ACTUALIZAR!!
 
 ### Classes ###
 

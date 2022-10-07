@@ -8,11 +8,11 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Jueves 6 de Octubre a las 20:00 (hora España)**
+> **🔴 PRÓXIMA CLASE: Jueves 13 de Octubre a las 20:00 (hora España)**
 > 
-> Nos tomamos un pequeño descanso ya que estaré de viaje. ¡Aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022)!
+> Mientras, aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022) y así ir mejorando poco a poco.
 > 
-> En [Discord](https://discord.gg/U3KjjfUfUJ?event=1020321837353287740) tienes creado un [evento](https://discord.gg/U3KjjfUfUJ?event=1020321837353287740) para que consultes la hora de tu país y añadas un recordatorio.
+> En [Discord](https://discord.gg/MsPMpmVJ?event=1027826275152318535) tienes creado un [evento](https://discord.gg/MsPMpmVJ?event=1027826275152318535) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
 > 
@@ -23,6 +23,8 @@
 ### Curso de fundamentos desde cero
 
 Curso que agrupa todas las clases en directo que hacen referencia a los fundamentos de Python.
+
+> Código: Directorio "Basic" en el proyecto
 
 <a href="https://youtu.be/Kp4Mvapo5kc"><img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
@@ -45,13 +47,24 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 * [Lección 15 - Módulos](https://youtu.be/Kp4Mvapo5kc?t=34583)
 * [Próximos pasos](https://youtu.be/Kp4Mvapo5kc?t=36390)
 
+### Curso intermedio
+
+Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la ruta de aprendizaje desde la última lección del curso de fundamentos.
+
+> Código: Directorio "Intermediate" en el proyecto
+
+* [Clase 06/10/22 - Dates y List Comprehension](https://www.twitch.tv/videos/1611014007)
+
 ## Información importante y preguntas frecuentes
+
+* **¿Cómo está estructurado el proyecto y el código?**
+	* Actualmente tienes dos directorios, "Basic" e "Intermediate", correspondientes a cómo están agrupadas las clases.
 
 * **¿Las clases quedan grabadas?**
 	* Todos los directos de Twitch están disponibles 60 días en la sección [vídeos](https://twitch.tv/mouredev/videos).
 
 * **¿Se subirá a YouTube?**
-	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases en YouTube editadas.
+	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases agrupadas en YouTube.
 
 * **¿Harás un curso?**
 	* Agruparé lecciones en YouTube para crear cursos por nivel. Actualmente ya existe el de [fundamentos desde cero](https://youtu.be/Kp4Mvapo5kc).

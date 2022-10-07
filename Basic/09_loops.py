@@ -1,4 +1,4 @@
-# Clase 5 (31/08/22) en directo desde Twitch: https://www.twitch.tv/videos/1578036618
+# TODO: ACTUALIZAR!!
 
 ### Loops ###
 

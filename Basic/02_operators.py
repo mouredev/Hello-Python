@@ -1,4 +1,4 @@
-# Clase 2 (10/08/22) en directo desde Twitch: https://www.twitch.tv/videos/1558018826
+# TODO: ACTUALIZAR!!
 
 ### Operadores Aritméticos ###
 

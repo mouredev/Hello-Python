@@ -1,4 +1,4 @@
-# Clase 4 (24/08/22) en directo desde Twitch: https://www.twitch.tv/videos/1571410092
+# TODO: ACTUALIZAR!!
 
 ### Dictionaries ###
 

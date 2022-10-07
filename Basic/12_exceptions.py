@@ -1,4 +1,4 @@
-# Clase 7 (15/09/22) en directo desde Twitch: https://www.twitch.tv/videos/1591757464
+# TODO: ACTUALIZAR!!
 
 ### Exception Handling ###
 
