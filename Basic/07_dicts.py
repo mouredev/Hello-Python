@@ -1,4 +1,4 @@
-# TODO: ACTUALIZAR!!
+# Clase en vídeo: https://youtu.be/Kp4Mvapo5kc
 
 ### Dictionaries ###
 
