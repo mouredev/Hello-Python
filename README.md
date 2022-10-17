@@ -8,7 +8,7 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Martes 18 de Octubre a las 18:00 (hora España)**
+> **🔴 PRÓXIMA CLASE: Miércoles 19 de Octubre a las 20:00 (hora España)**
 > 
 > Mientras, aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022) y así ir mejorando poco a poco.
 > 
