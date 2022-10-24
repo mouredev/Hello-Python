@@ -8,11 +8,11 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Miércoles 19 de Octubre a las 20:00 (hora España)**
+> **🔴 PRÓXIMA CLASE: Martes 25 de Octubre a las 20:00 (hora España)**
 > 
 > Mientras, aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022) y así ir mejorando poco a poco.
 > 
-> En [Discord](https://discord.gg/YHMbyTCQ?event=1030422684342952027) tienes creado un [evento](https://discord.gg/YHMbyTCQ?event=1030422684342952027) para que consultes la hora de tu país y añadas un recordatorio.
+> En [Discord](https://discord.gg/NQTS5UX4?event=1034099515050958900) tienes creado un [evento](https://discord.gg/NQTS5UX4?event=1034099515050958900) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
 > 
@@ -55,6 +55,7 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 
 * [Clase 06/10/22 - Dates y List Comprehension](https://www.twitch.tv/videos/1611014007)
 * [Clase 13/10/22 - Resolución retos de programación](https://www.twitch.tv/videos/1623225956)
+* [Clase 19/10/22 - Lambdas y Funciones de orden superior](https://www.twitch.tv/videos/1628654998)
 
 ## Información importante y preguntas frecuentes
 
