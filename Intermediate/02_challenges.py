@@ -12,10 +12,6 @@ cada impresión), sustituyendo los siguientes:
 - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
 """
 
-from itertools import count
-from tokenize import String
-
-
 def fizzbuzz():
     for index in range(1, 101):
         if index % 3 == 0 and index % 5 == 0:

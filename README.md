@@ -8,11 +8,11 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Jueves 3 de Noviembre a las 20:00 (hora España)**
+> **🔴 PRÓXIMA CLASE: Miércoles 9 de Noviembre a las 20:00 (hora España)**
 > 
 > Mientras, aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022) y así ir mejorando poco a poco.
 > 
-> En [Discord](https://discord.gg/U3KjjfUfUJ?event=1034770962127790142) tienes creado un [evento](https://discord.gg/U3KjjfUfUJ?event=1034770962127790142) para que consultes la hora de tu país y añadas un recordatorio.
+> En [Discord](https://discord.gg/RemDcUaW?event=1038058766370877530) tienes creado un [evento](https://discord.gg/RemDcUaW?event=1038058766370877530) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
 > 
@@ -57,6 +57,7 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 * [Clase 13/10/22 - Resolución retos de programación](https://www.twitch.tv/videos/1623225956)
 * [Clase 19/10/22 - Lambdas y Funciones de orden superior](https://www.twitch.tv/videos/1628654998)
 * [Clase 25/10/22 - Tipos de error y manejo de ficheros .txt](https://www.twitch.tv/videos/1634818287)
+* [Clase 03/11/22 - Manejo de ficheros .json/.cvs y Expresiones Regulares](https://www.twitch.tv/videos/1642512950)
 
 ## Información importante y preguntas frecuentes
 
