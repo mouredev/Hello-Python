@@ -8,11 +8,23 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Miércoles 9 de Noviembre a las 20:00 (hora España)**
+> **🚨 ¡ANUNCIO IMPORTANTE!**
+> 
+> Voy a crear un CURSO DESDE CERO gratis para aprender PYTHON en BACKEND.
+> 
+> Veremos temas como:
+> 
+> * API REST
+> * CRUD
+> * Autenticación
+> * Base de datos
+> * Despliegue en servidor
+> 
+> **🔴 INICIO DEL NUEVO CURSO EN DIRECTO: Jueves 24 de Noviembre a las 20:00 (hora España)**
+
+> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/U3KjjfUfUJ?event=1040586282327347293) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > Mientras, aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022) y así ir mejorando poco a poco.
-> 
-> En [Discord](https://discord.gg/RemDcUaW?event=1038058766370877530) tienes creado un [evento](https://discord.gg/RemDcUaW?event=1038058766370877530) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
 > 
@@ -58,6 +70,9 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 * [Clase 19/10/22 - Lambdas y Funciones de orden superior](https://www.twitch.tv/videos/1628654998)
 * [Clase 25/10/22 - Tipos de error y manejo de ficheros .txt](https://www.twitch.tv/videos/1634818287)
 * [Clase 03/11/22 - Manejo de ficheros .json/.cvs y Expresiones Regulares](https://www.twitch.tv/videos/1642512950)
+* [Clase 09/11/22 - Patrones de Expresiones Regulares y Manejo de paquetes ](https://www.twitch.tv/videos/1648023317)
+
+**Bloque finalizado. Próximamente lo publicaré en un único vídeo editado en YouTube.**
 
 ## Información importante y preguntas frecuentes
 
@@ -66,6 +81,9 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 
 * **¿Las clases quedan grabadas?**
 	* Todos los directos de Twitch están disponibles 60 días en la sección [vídeos](https://twitch.tv/mouredev/videos).
+
+* **¿Puedo asistir a las clases en directo si no he visto las anteriores?**
+	* Sí. Son clases independientes en las que hablo de nuevo de conceptos anteriores para que se entiendan de nuevo. Por supuesto, es recomendable que poco a poco visualices las clases anteriores.
 
 * **¿Se subirá a YouTube?**
 	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases agrupadas en YouTube.

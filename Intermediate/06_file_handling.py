@@ -27,6 +27,8 @@ with open("Intermediate/my_file.txt", "a") as my_other_file:
 
 #os.remove("Intermediate/my_file.txt")
 
+# Clase en vídeo (03/11/22): https://www.twitch.tv/videos/1642512950
+
 # .json file
 
 import json
@@ -76,4 +78,5 @@ with open("Intermediate/my_file.csv") as my_other_file:
 # .xml file
 
 import xml
+# ¿Te atreves a practicar cómo trabajar con este tipo de ficheros?
 
