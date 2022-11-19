@@ -2,7 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
-## Proyecto realizado durante las emisiones en directo desde [Twitch](https://twitch.tv/mouredev) para aprender Python desde cero
+## Curso para aprender el lenguaje de programación Python desde cero y para principiantes
+
+### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 
 ### 🐍 CADA SEMANA UNA NUEVA CLASE EN DIRECTO 🐍
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
@@ -50,7 +52,7 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 * [Lección 6 - Listas](https://youtu.be/Kp4Mvapo5kc?t=10872)
 * [Lección 7 - Tuplas](https://youtu.be/Kp4Mvapo5kc?t=14711)
 * [Lección 8 - Sets](https://youtu.be/Kp4Mvapo5kc?t=16335)
-* [Lección 9 - Diccionarios](https://youtu.be/Kp4Mvapo5kc)
+* [Lección 9 - Diccionarios](https://youtu.be/Kp4Mvapo5kc?t=18506)
 * [Lección 10 - Condicionales](https://youtu.be/Kp4Mvapo5kc?t=21442)
 * [Lección 11 - Bucles/Loops/Ciclos](https://youtu.be/Kp4Mvapo5kc?t=23822)
 * [Lección 12 - Funciones](https://youtu.be/Kp4Mvapo5kc?t=26619)
@@ -59,20 +61,33 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 * [Lección 15 - Módulos](https://youtu.be/Kp4Mvapo5kc?t=34583)
 * [Próximos pasos](https://youtu.be/Kp4Mvapo5kc?t=36390)
 
-### Curso intermedio
+### Curso intermedio de fundamentos desde cero
 
-Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la ruta de aprendizaje desde la última lección del curso de fundamentos.
+Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la ruta de aprendizaje desde la última lección del curso de inicial.
 
 > Código: Directorio "Intermediate" en el proyecto
+ 
+<a href="https://youtu.be/TbcEqkabAWU"><img src="http://i3.ytimg.com/vi/TbcEqkabAWU/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
-* [Clase 06/10/22 - Dates y List Comprehension](https://www.twitch.tv/videos/1611014007)
-* [Clase 13/10/22 - Resolución retos de programación](https://www.twitch.tv/videos/1623225956)
-* [Clase 19/10/22 - Lambdas y Funciones de orden superior](https://www.twitch.tv/videos/1628654998)
-* [Clase 25/10/22 - Tipos de error y manejo de ficheros .txt](https://www.twitch.tv/videos/1634818287)
-* [Clase 03/11/22 - Manejo de ficheros .json/.cvs y Expresiones Regulares](https://www.twitch.tv/videos/1642512950)
-* [Clase 09/11/22 - Patrones de Expresiones Regulares y Manejo de paquetes ](https://www.twitch.tv/videos/1648023317)
+* [Introducción](https://youtu.be/TbcEqkabAWU)
+* [Lección 1 - Dates](https://youtu.be/TbcEqkabAWU?t=202)
+* [Lección 2 - List Comprehension](https://youtu.be/TbcEqkabAWU?t=3239)
+* [Lección 3 - Resolución de retos de programación](https://youtu.be/TbcEqkabAWU?t=4142)
+* [Lección 4 - Lambdas](https://youtu.be/TbcEqkabAWU?t=9145)
+* [Lección 5 - Funciones de orden superior](https://youtu.be/TbcEqkabAWU?t=10172)
+* [Lección 6 - Tipos de error](https://youtu.be/TbcEqkabAWU?t=12721)
+* [Lección 7 - Manejo de ficheros](https://youtu.be/TbcEqkabAWU?t=15524)
+* [Lección 8 - Expresiones regulares](https://youtu.be/TbcEqkabAWU?t=19762)
+* [Lección 9 - Manejo de paquetes](https://youtu.be/TbcEqkabAWU?t=24010)
+* [Próximos pasos](https://youtu.be/TbcEqkabAWU?t=26228)
 
-**Bloque finalizado. Próximamente lo publicaré en un único vídeo editado en YouTube.**
+### Curso de Backend desde cero
+
+Curso en el que aprenderemos a utilizar Python para backend e implementaremos un API REST con autenticación, base de datos y desplegaremos el proyecto en un servidor real.
+
+> **🔴 INICIO DEL NUEVO CURSO EN DIRECTO: Jueves 24 de Noviembre a las 20:00 (hora España)**
+> 
+> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/U3KjjfUfUJ?event=1040586282327347293) para que consultes la hora de tu país y añadas un recordatorio.
 
 ## Información importante y preguntas frecuentes
 
