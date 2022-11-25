@@ -1,4 +1,4 @@
-# Clase en vídeo (19/10/22): https://www.twitch.tv/videos/1628654998
+# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=9145
 
 ### Lambdas ###
 

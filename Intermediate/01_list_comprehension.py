@@ -1,4 +1,4 @@
-# Clase en vídeo (06/10/2022): https://www.twitch.tv/videos/1611014007
+# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=3239
 
 ### List Comprehension ###
 

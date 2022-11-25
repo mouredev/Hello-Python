@@ -1,4 +1,4 @@
-# Clase en vídeo (13/10/2022): https://www.twitch.tv/videos/1623225956
+# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=4142
 
 ### Challenges ###
 

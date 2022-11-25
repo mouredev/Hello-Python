@@ -1,4 +1,4 @@
-# Clase en vídeo (03/11/22): https://www.twitch.tv/videos/1642512950
+# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=19762
 
 ### Regular Expressions ###
 

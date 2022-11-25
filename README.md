@@ -10,9 +10,7 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🚨 ¡ANUNCIO IMPORTANTE!**
-> 
-> Voy a crear un CURSO DESDE CERO gratis para aprender PYTHON en BACKEND.
+> Estoy llevando a cabo un CURSO DESDE CERO gratis para aprender PYTHON en BACKEND.
 > 
 > Veremos temas como:
 > 
@@ -22,9 +20,9 @@
 > * Base de datos
 > * Despliegue en servidor
 > 
-> **🔴 INICIO DEL NUEVO CURSO EN DIRECTO: Jueves 24 de Noviembre a las 20:00 (hora España)**
+> **🔴 SIGUIENTE CLASE: Jueves 1 de Diciembre a las 20:00 (hora España)**
 
-> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/U3KjjfUfUJ?event=1040586282327347293) para que consultes la hora de tu país y añadas un recordatorio.
+> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/mouredev?event=1045647021337497600) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > Mientras, aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022) y así ir mejorando poco a poco.
 > 
@@ -33,6 +31,14 @@
 > ---
 
 ## Clases en vídeo
+
+### [EN CURSO] Backend desde cero
+
+Curso en el que aprenderemos a utilizar Python para backend e implementaremos un API REST con autenticación, base de datos y desplegaremos el proyecto en un servidor real.
+
+> Código: Directorio "Backend" en el proyecto
+
+* [Clase 1 - 24/11/2022](https://www.twitch.tv/videos/1661716599)
 
 ### Curso de fundamentos desde cero
 
@@ -81,20 +87,12 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 * [Lección 9 - Manejo de paquetes](https://youtu.be/TbcEqkabAWU?t=24010)
 * [Próximos pasos](https://youtu.be/TbcEqkabAWU?t=26228)
 
-### Curso de Backend desde cero
-
-Curso en el que aprenderemos a utilizar Python para backend e implementaremos un API REST con autenticación, base de datos y desplegaremos el proyecto en un servidor real.
-
-> **🔴 INICIO DEL NUEVO CURSO EN DIRECTO: Jueves 24 de Noviembre a las 20:00 (hora España)**
-> 
-> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/U3KjjfUfUJ?event=1040586282327347293) para que consultes la hora de tu país y añadas un recordatorio.
-
 ## Información importante y preguntas frecuentes
 
 * **¿Cómo está estructurado el proyecto y el código?**
-	* Actualmente tienes dos directorios, "Basic" e "Intermediate", correspondientes a cómo están agrupadas las clases.
+	* Actualmente tienes tres directorios, "Basic", "Intermediate" y "Backend", correspondientes a cómo están agrupados los cursos.
 
-* **¿Las clases quedan grabadas?**
+* **¿Las clases nuevas quedan grabadas?**
 	* Todos los directos de Twitch están disponibles 60 días en la sección [vídeos](https://twitch.tv/mouredev/videos).
 
 * **¿Puedo asistir a las clases en directo si no he visto las anteriores?**
@@ -104,7 +102,7 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases agrupadas en YouTube.
 
 * **¿Harás un curso?**
-	* Agruparé lecciones en YouTube para crear cursos por nivel. Actualmente ya existe el de [fundamentos desde cero](https://youtu.be/Kp4Mvapo5kc).
+	* Agruparé lecciones en YouTube para crear cursos por nivel. Actualmente ya existe el de [fundamentos desde cero](https://youtu.be/Kp4Mvapo5kc) e [intermedio](https://youtu.be/TbcEqkabAWU).
 
 * **¿Hasta dónde llegará el curso?**
 	* Mi idea es repasar los conceptos básicos hasta llegar a crear un backend (en principio).
@@ -122,6 +120,7 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 * [Repo 30 días de Python](https://github.com/Asabeneh/30-Days-Of-Python)
 * [Juego Codédex para aprender Python](https://www.codedex.io/)
 * [Visual Studio Code](https://code.visualstudio.com/): El editor que estoy usando
+* [FastAPI](https://fastapi.tiangolo.com/es/): El framework para crear nuestra API Backend
 
 ---
 

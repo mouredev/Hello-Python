@@ -1,4 +1,4 @@
-# Clase en vídeo (09/11/22): https://www.twitch.tv/videos/1648023317
+# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=24010
 
 ### Arithmetics ###
 

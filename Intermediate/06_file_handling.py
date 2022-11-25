@@ -1,4 +1,4 @@
-# Clase en vídeo (25/10/22): https://www.twitch.tv/videos/1634818287
+# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=15524
 
 ### File Handling ###
 
