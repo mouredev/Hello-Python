@@ -38,7 +38,7 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 
 > Código: Directorio "Backend" en el proyecto
 
-* [Clase 1 - 24/11/2022](https://www.twitch.tv/videos/1661716599)
+* [Clase 1 - 24/11/2022 - Hola Mundo en FastAPI](https://www.twitch.tv/videos/1661716599)
 
 ### Curso de fundamentos desde cero
 
