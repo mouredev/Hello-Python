@@ -10,15 +10,16 @@ my_other_dict = {}
 print(type(my_dict))
 print(type(my_other_dict))
 
-my_other_dict = {"Nombre":"Brais", "Apellido":"Moure", "Edad":35, 1:"Python"}
+my_other_dict = {"Nombre": "Brais",
+                 "Apellido": "Moure", "Edad": 35, 1: "Python"}
 
 my_dict = {
-    "Nombre":"Brais",
-    "Apellido":"Moure",
-    "Edad":35,
-    "Lenguajes": {"Python","Swift", "Kotlin"},
-    1:1.77
-    }
+    "Nombre": "Brais",
+    "Apellido": "Moure",
+    "Edad": 35,
+    "Lenguajes": {"Python", "Swift", "Kotlin"},
+    1: 1.77
+}
 
 print(my_other_dict)
 print(my_dict)

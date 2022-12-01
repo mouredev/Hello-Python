@@ -9,7 +9,7 @@ my_condition = 0
 while my_condition < 10:
     print(my_condition)
     my_condition += 2
-else: # Es opcional
+else:  # Es opcional
     print("Mi condición es mayor o igual que 10")
 
 print("La ejecución continúa")
@@ -35,12 +35,12 @@ my_tuple = (35, 1.77, "Brais", "Moure", "Brais")
 for element in my_tuple:
     print(element)
 
-my_set = {"Brais","Moure", 35}
+my_set = {"Brais", "Moure", 35}
 
 for element in my_set:
     print(element)
 
-my_dict = {"Nombre":"Brais", "Apellido":"Moure", "Edad":35, 1:"Python"}
+my_dict = {"Nombre": "Brais", "Apellido": "Moure", "Edad": 35, 1: "Python"}
 
 for element in my_dict:
     print(element)

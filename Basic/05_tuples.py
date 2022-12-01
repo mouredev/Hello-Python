@@ -17,14 +17,14 @@ print(type(my_tuple))
 
 print(my_tuple[0])
 print(my_tuple[-1])
-#print(my_tuple[4]) IndexError
-#print(my_tuple[-6]) IndexError
+# print(my_tuple[4]) IndexError
+# print(my_tuple[-6]) IndexError
 
 print(my_tuple.count("Brais"))
 print(my_tuple.index("Moure"))
 print(my_tuple.index("Brais"))
 
-#my_tuple[1] = 1.80 'tuple' object does not support item assignment
+# my_tuple[1] = 1.80 'tuple' object does not support item assignment
 
 # Concatenación
 
@@ -48,7 +48,7 @@ print(type(my_tuple))
 
 # Eliminación
 
-#del my_tuple[2] TypeError: 'tuple' object doesn't support item deletion
+# del my_tuple[2] TypeError: 'tuple' object doesn't support item deletion
 
 del my_tuple
-#print(my_tuple) NameError: name 'my_tuple' is not defined
+# print(my_tuple) NameError: name 'my_tuple' is not defined

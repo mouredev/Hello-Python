@@ -26,8 +26,8 @@ print(my_other_list[1])
 print(my_other_list[-1])
 print(my_other_list[-4])
 print(my_list.count(30))
-#print(my_other_list[4]) IndexError
-#print(my_other_list[-5]) IndexError
+# print(my_other_list[4]) IndexError
+# print(my_other_list[-5]) IndexError
 
 print(my_other_list.index("Brais"))
 

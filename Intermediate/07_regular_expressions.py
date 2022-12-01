@@ -15,8 +15,8 @@ start, end = match.span()
 print(my_string[start:end])
 
 match = re.match("Esta no es la lección", my_other_string)
-#if not(match == None): # Otra forma de comprobar el None
-#if match != None: # Otra forma de comprobar el None
+# if not(match == None): # Otra forma de comprobar el None
+# if match != None: # Otra forma de comprobar el None
 if match is not None:
     print(match)
     start, end = match.span()

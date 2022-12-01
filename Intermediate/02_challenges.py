@@ -12,6 +12,7 @@ cada impresión), sustituyendo los siguientes:
 - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
 """
 
+
 def fizzbuzz():
     for index in range(1, 101):
         if index % 3 == 0 and index % 5 == 0:
@@ -22,6 +23,7 @@ def fizzbuzz():
             print("buzz")
         else:
             print(index)
+
 
 fizzbuzz()
 
@@ -35,10 +37,12 @@ verdadero o falso (Bool) según sean o no anagramas.
 - Dos palabras exactamente iguales no son anagrama.
 """
 
+
 def is_anagram(word_one, word_two):
     if word_one.lower() == word_two.lower():
-       return False
+        return False
     return sorted(word_one.lower()) == sorted(word_two.lower())
+
 
 print(is_anagram("Amor", "Roma"))
 
@@ -51,6 +55,7 @@ de Fibonacci empezando en 0.
   0, 1, 1, 2, 3, 5, 8, 13...
 """
 
+
 def fibonacci():
 
     prev = 0
@@ -62,6 +67,7 @@ def fibonacci():
         prev = next
         next = fib
 
+
 fibonacci()
 
 """
@@ -69,6 +75,7 @@ fibonacci()
 Escribe un programa que se encargue de comprobar si un número es o no primo.
 Hecho esto, imprime los números primos entre 1 y 100.
 """
+
 
 def is_prime():
 
@@ -82,9 +89,10 @@ def is_prime():
                 if number % index == 0:
                     is_divisible = True
                     break
-                    
+
             if not is_divisible:
                 print(number)
+
 
 is_prime()
 
@@ -95,11 +103,13 @@ sin usar funciones propias del lenguaje que lo hagan de forma automática.
 - Si le pasamos "Hola mundo" nos retornaría "odnum aloH"
 """
 
+
 def reverse(text):
     text_len = len(text)
     reversed_text = ""
     for index in range(0, text_len):
         reversed_text += text[text_len - index - 1]
     return reversed_text
+
 
 print(reverse("Hola mundo"))

@@ -24,7 +24,8 @@ print(len(my_string_variable))
 
 # Variables en una sola línea. ¡Cuidado con abusar de esta sintaxis!
 name, surname, alias, age = "Brais", "Moure", 'MoureDev', 35
-print("Me llamo:", name, surname, ". Mi edad es:", age, ". Y mi alias es:", alias)
+print("Me llamo:", name, surname, ". Mi edad es:",
+      age, ". Y mi alias es:", alias)
 
 # Inputs
 name = input('¿Cuál es tu nombre? ')

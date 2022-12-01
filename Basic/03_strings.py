@@ -22,7 +22,7 @@ print(my_scape_string)
 
 name, surname, age = "Brais", "Moure", 35
 print("Mi nombre es {} {} y mi edad es {}".format(name, surname, age))
-print("Mi nombre es %s %s y mi edad es %d" %(name, surname, age))
+print("Mi nombre es %s %s y mi edad es %d" % (name, surname, age))
 print("Mi nombre es " + name + " " + surname + " y mi edad es " + str(age))
 print(f"Mi nombre es {name} {surname} y mi edad es {age}")
 
@@ -62,4 +62,4 @@ print("1".isnumeric())
 print(language.lower())
 print(language.lower().isupper())
 print(language.startswith("Py"))
-print("Py" == "py") # No es lo mismo
+print("Py" == "py")  # No es lo mismo

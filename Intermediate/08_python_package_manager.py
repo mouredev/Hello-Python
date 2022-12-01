@@ -8,7 +8,10 @@
 # pip --version
 
 # pip install numpy
-import numpy 
+import pandas
+from mypackage import arithmetics
+import requests
+import numpy
 
 print(numpy.version.version)
 
@@ -18,14 +21,12 @@ print(type(numpy_array))
 print(numpy_array * 2)
 
 # pip install pandas
-import pandas 
 
- # pip list
- # pip uninstall pandas
- # pip show numpy
+# pip list
+# pip uninstall pandas
+# pip show numpy
 
 # pip install requests
-import requests
 
 response = requests.get("https://pokeapi.co/api/v2/pokemon?limit=151")
 print(response)
@@ -34,6 +35,5 @@ print(response.json())
 
 # Arithmetics Package
 
-from mypackage import arithmetics
 
 print(arithmetics.sum_two_values(1, 4))

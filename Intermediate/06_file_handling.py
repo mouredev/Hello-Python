@@ -2,15 +2,20 @@
 
 ### File Handling ###
 
+import xml
+import csv
+import json
 import os
 
 # .txt file
 
-txt_file = open("Intermediate/my_file.txt", "w+") # Leer, escribir y sobrescribir si ya existe
+# Leer, escribir y sobrescribir si ya existe
+txt_file = open("Intermediate/my_file.txt", "w+")
 
-txt_file.write("Mi nombre es Brais\nMi apellido es Moure\n35 años\nY mi lenguaje preferido es Python")
+txt_file.write(
+    "Mi nombre es Brais\nMi apellido es Moure\n35 años\nY mi lenguaje preferido es Python")
 
-#print(txt_file.read())
+# print(txt_file.read())
 print(txt_file.read(10))
 print(txt_file.readline())
 print(txt_file.readline())
@@ -25,24 +30,23 @@ txt_file.close()
 with open("Intermediate/my_file.txt", "a") as my_other_file:
     my_other_file.write("\nY Swift")
 
-#os.remove("Intermediate/my_file.txt")
+# os.remove("Intermediate/my_file.txt")
 
 # Clase en vídeo (03/11/22): https://www.twitch.tv/videos/1642512950
 
 # .json file
 
-import json
 
 json_file = open("Intermediate/my_file.json", "w+")
 
 json_test = {
-    "name":"Brais", 
-    "surname":"Moure", 
-    "age":35, 
-    "languages":["Python", "Swift", "Kotlin"],
-    "website":"https://moure.dev"}
+    "name": "Brais",
+    "surname": "Moure",
+    "age": 35,
+    "languages": ["Python", "Swift", "Kotlin"],
+    "website": "https://moure.dev"}
 
-json.dump(json_test, json_file, indent = 2)
+json.dump(json_test, json_file, indent=2)
 
 json_file.close()
 
@@ -57,7 +61,6 @@ print(json_dict["name"])
 
 # .csv file
 
-import csv
 
 csv_file = open("Intermediate/my_file.csv", "w+")
 
@@ -77,6 +80,4 @@ with open("Intermediate/my_file.csv") as my_other_file:
 
 # .xml file
 
-import xml
 # ¿Te atreves a practicar cómo trabajar con este tipo de ficheros?
-
