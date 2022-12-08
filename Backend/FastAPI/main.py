@@ -6,7 +6,11 @@
 
 # Instala FastAPI: pip install "fastapi[all]"
 
-from fastapi import FastAPI
+from fastapi import FastAPI 
+## Probablemente esto de error o parezca que no importa fastapi - 
+# Se debe a que el interprete de VSCODE esta seleccionado de manera global. 
+# Se puede corregir, seleccionado el interprete ubicado en la ruta venv/bin/python (La ruta de nuestro entorno virtual)
+
 
 app = FastAPI()
 
