@@ -1,0 +1,3 @@
+Interprete VSCODE - https://bobbyhadz.com/blog/python-no-module-named-fastapi 
+Entornos virtuales python - https://docs.python.org/es/3/tutorial/venv.html 
+Venv Gitignore - https://stackoverflow.com/questions/42306410/gitignore-syntax-how-to-exclude-virtualenv-sub-directories

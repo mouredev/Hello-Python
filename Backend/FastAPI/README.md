@@ -83,7 +83,6 @@ Porqué?
 
 
 En este tutorial nos enfocaremos en el uso y desarrollo con entornos virtuales.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Backend
@@ -95,70 +94,124 @@ Para comenzar el backend esta creado con:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-## Inicio
-The following tools are prior to follow this tutorial and you will be need it running on your machine, however you can find here is a quickly reminder:
-* [![Docker][docker-shield]][docker-url]
-* [![Git][git-shield]][git-url]
-* [![Postman][postman-shield]][postman-url]
-* Your Favorite IDE
-### Prerequisites
+### Qué es un entorno virtual?
 
-This is quick guide of how to install the tools that we will need to use our pre built backend.
+Es un directorio autocontenido, que en su interior contiene una instalación de python con la versión particular para ese proyecto. Nos permite instalar además librería de terceros.
+
+Es decir, permite ejecutar un proyecto con python y sus librerías, al mismo tiempo que tenemos otro proyecto con versiones de python y/o librerías distintas, sin necesidad de instalar y desinstalar cada vez que cambiemos de proyecto.
+
+### Ventajas
+
+La principal ventaja que nos encontramos es que nos permiten la portabilidad de nuestras aplicaciones. Imagina que escribes código, subes al repositorio y un compañero continúa con el proyecto desde su ordenador. El deberá instalar las liberías necesarias, pero puede ocurrir que existan diferentes versiones disponibles, esto lo podemos simplificar con una técnica similar al package.json de NodeJs, técnica que veremos mas adelante.
+
+Otra ventaja es la estandarización, tu y todos los desarrolladores que trabajéis sobre la aplicación utilizaréis las mismas versiones tanto del lenguaje y de las librerías.
+
+### Global vs Entorno Virtual
+
+Para poder explicar las diferencias, podemos apreciar la comparación entre ambas imagenes.
+IMG1 GLOBAL 
+IMG 2 LOCAL
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Primeros pasos 
+
+Crear un entorno virtual es relativamente sencillo, para ello necesitaremos tener instalado:
+* [![Python][python-shield]][python-url]
+* [![Git][git-shield]][git-url]
+* Tu IDE Favorito
+### Pre requisitos
+
+Cómo instalar alguna de las herramientas 
 * Git 
-  * macOS -> Use Homebrew package manager -> [Learn more here][gitMac]
+  * macOS -> Homebrew package manager -> [Learn more here][gitMac]
     ```sh
       brew install git
     ```
   * Linux
-    * For distribution based on Debian/Ubuntu
+    * Para distribuciones basadas en Debian/Ubuntu
       ```sh
         apt-get install git
       ```
-    * For Fedora 
+    * Basadas en Fedora
       ```sh
         yum install git
       ```
-    For others distributions, visit [Download Git for Linux/Unix][gitLinux]
+    Otras distribuciones [Download Git for Linux/Unix][gitLinux]
 
   * Windows
 
-    You can download the latest 32-bit version [Click Here][gitWindows32bit]<br/>
-    For other downloads, visit [Dowload git for Windows][gitWindows]
+    La última versión de 32bit se puede descargar [Click Here][gitWindows32bit]<br/>
+    Para otras descargas, puedes hacerlo desde [Dowload git for Windows][gitWindows]
 
-* Docker 
+* Python 
   * macOS 
 
-    * For Mac with Apple silicon [here][dockerapplesilicon]
-    * For Mac with Intel chip [here][dockerappleIntel]
-    
-    For more info visit [Docker Install on Mac][dockermac-url]
+    * Última versión [here][pylatestmacos]
+    * Otras versiones [here][pymacos]
+
   * Windows  
-    We suggest read this first [Docker install on Windows][windowsDocker-url]
-    
-    You can download clicking [Desktop][windowsdektop-url]
+    * Última versión [here][pylatestwin]
+    * Otras versiones [here][pywin]
   
   * Linux/Unix 
   
-    You can dowload directly [Docker Desktop][linuxdockerdesktop-url] here and follow the instructions, but you must know that in Linux/Unix you have two options and you can read more here [Docker Desktop or Docker Engine][linuxdocker-url]
-### Installing 
+    * GZipped source tarball [here][pygzip]
+    * XZ source tarball [here][pyxz]
+### Creando Entornos Virtuales 
 
-1. Clone the repo
+Trabajaremos sobre la terminal.
+
+1. Clonamos el repositorio
    ```sh
-   git clone https://github.com/molro/backend.git
+   git clone https://github.com/mouredev/Hello-Python.git
    ```
 
-2. Run and stop the backend
+2. Nos ubicamos en el directorio donde esta el backend
 
-   -  Run the backend 
    ``` sh 
-   docker compose up -d 
+   cd /Hello-Python/Backend/FasAPI/
    ```
-   - Stop the backend
-   ``` sh
-   docker compose down 
-   ```
+3. Comprobamos la versión de Python, en mi caso tengo la versión 3.10
 
+   ``` sh
+   python3 --version 
+   ```
+4. Comprobamos las liberías y versiones instaladas, con alguno de los comandos. 
+
+    ``` sh
+    python3 -m pip list
+    ```
+    ``` sh
+    pip list
+    ```
+    ``` sh
+    pip freeze
+    ```
+    Veremos como resultado todas las librerías instaladas y sus respectivas versiones.
+
+5. Creamos nuestro entorno virtual, para ello utilizaremos la siguiente sintaxis
+
+    ``` sh
+    python3 -m venv NOMBRE DEL DIRECTORIO VIRTUAL
+    ```
+    Ejecutamos el comando para crear un directorio llamado venv (De esta manera automáticamente se incluira en el git ignore, puedes llamarlo como desees, pero deberás incluir el directorio manualmente dentro del archivo .gitignore)
+    
+    ``` sh
+    python3 -m venv venv
+    ```
+    Esto nos creará un directorio donde se instalará todo lo que necesitemos para el proyecto.
+6. Repetimos el paso 4 y comprobamos las versiones instaladas.
+7. Instalamos las librerías utilizadas en el proyecto:
+    
+    ``` sh
+    pip install "fastapi[all]"
+    ```
+8. Volvemos a repetir el paso 4 y comprobamos las versiones instaladas.
+
+    Podemos ver las diferencias 
+<!-- Pendiente Crear requirements -->
+<!-- Pendiente Instalar librerías con requirements -->
 3. Test the endpoints  
 
     Actually the backend has only two endpoints working
@@ -196,31 +249,11 @@ This is quick guide of how to install the tools that we will need to use our pre
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Create API-REST version 0.1
-- [x] Create Dockerfile 
-- [x] Create Docker Compose 
-- [x] Build Docker Image 0.1
-- [x] Push image to Docker Hub
-- [x] Create documentation version 0.1 
-- [ ] API-REST version 0.2
-    - [ ] Re-estructure endpoints 
-    - [ ] Implement authorization method  
-    - [ ] Create new docker image
-    - [ ] Push new version of image
-- [ ] Case of uses section
-- [ ] Troubleshooting
-- [ ] Acknowledgments section
-See the [open issues](https://github.com/molro/backend/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the GPL License. See [License][license-url] file for more information.
+Creado bajo licencia Apache-2.0 visita aquí para mas información [licencia][license-url].
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -272,9 +305,16 @@ Project Link: [https://github.com/molro/backend](https://github.com/molro/backen
 [gitWindows32bit]:https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/Git-2.38.1-32-bit.exe 
 [gitWindows]:https://git-scm.com/download/win
 
-[dockerapplesilicon]:https://desktop.docker.com/mac/main/arm64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-arm64
-[dockerappleIntel]:https://desktop.docker.com/mac/main/amd64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-amd64
-[dockermac-url]:https://docs.docker.com/desktop/install/mac-install/
+[pylatestmacos]:https://www.python.org/downloads/release/python-3111/
+[pymacos]:https://www.python.org/downloads/macos/
+
+[pylatestwin]:https://www.python.org/downloads/release/python-3111/
+[pywin]:https://www.python.org/downloads/windows/
+
+[pygzip]:https://www.python.org/ftp/python/3.11.1/Python-3.11.1.tgz
+[pyxz]:https://www.python.org/ftp/python/3.11.1/Python-3.11.1.tar.xz
+
+[pywindowsdockermac-url]:https://docs.docker.com/desktop/install/mac-install/
 
 [windowsDocker-url]:https://docs.docker.com/desktop/install/windows-install/#wsl-2-backend
 [windowsdektop-url]:https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe
@@ -282,4 +322,4 @@ Project Link: [https://github.com/molro/backend](https://github.com/molro/backen
 [linuxdocker-url]:https://docs.docker.com/desktop/faqs/linuxfaqs/#what-is-the-difference-between-docker-desktop-for-linux-and-docker-engine
 [linuxdockerdesktop-url]:https://docs.docker.com/desktop/install/linux-install/
 
-[license-url]:https://github.com/molro/backend/blob/main/LICENSE
+[license-url]:hhttps://github.com/mouredev/Hello-Python/blob/main/LICENSE
