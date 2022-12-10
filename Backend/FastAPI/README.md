@@ -28,11 +28,11 @@
   <p align="center">
     🎯 Desarrollo de Python con entornos virtuales
     <br />
-    <a href="https://github.com/molro/backend"><strong>Archivos »</strong></a>
+    <a href="https://github.com/mouredev/Hello-Python/"><strong>Archivos »</strong></a>
     <br />
-    <a href="https://github.com/molro/backend/issues">Reportar un bug</a>
+    <a href="https://github.com/mouredev/Hello-Python/issues">Reportar un bug</a>
     ·
-    <a href="https://github.com/molro/backend/issues">Asignar una feature</a>
+    <a href="https://github.com/mouredev/Hello-Python/issues">Asignar una feature</a>
   </p>
 </div>
 
@@ -64,7 +64,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About 
+## Introducción
 
 Por defecto la instalación de Python, incluye una gran cantidad de librerías de manera nativa y por defecto en la instalación de Python. Sin embargo es habitual el uso de liberías de terceros, como en este caso FastAPI.
 
@@ -94,7 +94,7 @@ Para comenzar el backend esta creado con:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Qué es un entorno virtual?
+## Qué es un entorno virtual?
 
 Es un directorio autocontenido, que en su interior contiene una instalación de python con la versión particular para ese proyecto. Nos permite instalar además librería de terceros.
 
@@ -160,7 +160,7 @@ Cómo instalar alguna de las herramientas
     * XZ source tarball [here][pyxz]
 ### Creando Entornos Virtuales 
 
-Trabajaremos sobre la terminal.
+IMPORTANTE!!! Trabajaremos sobre la terminal.
 
 1. Clonamos el repositorio
    ```sh
@@ -193,7 +193,7 @@ Trabajaremos sobre la terminal.
 5. Creamos nuestro entorno virtual, para ello utilizaremos la siguiente sintaxis
 
     ``` sh
-    python3 -m venv NOMBRE DEL DIRECTORIO VIRTUAL
+    python3 -m venv NOMBRE_DIRECTORIO_VIRTUAL
     ```
     Ejecutamos el comando para crear un directorio llamado venv (De esta manera automáticamente se incluira en el git ignore, puedes llamarlo como desees, pero deberás incluir el directorio manualmente dentro del archivo .gitignore)
     
@@ -201,52 +201,58 @@ Trabajaremos sobre la terminal.
     python3 -m venv venv
     ```
     Esto nos creará un directorio donde se instalará todo lo que necesitemos para el proyecto.
-6. Repetimos el paso 4 y comprobamos las versiones instaladas.
-7. Instalamos las librerías utilizadas en el proyecto:
+6. Para activar el entorno virtual necesitaremos activarlo mediante el siguiente comando:
+    ```sh
+    source NOMBRE_DIRECTORIO_VIRTUAL/bin/activate
+    ```
+    En nuestro caso utilizaremos el siguiente comando
+    ```sh
+    source venv/bin/activate
+    ```
+
+    Para desactivar utilizamos 
+    ``` sh 
+    deactivate
+    ```
+  <!-- IMAGEN DE ENTORNO VIRTUAL -->
+7. Repetimos el paso 4 y comprobamos las versiones instaladas (Dentro del entorno virtual)
+8. Instalamos las librerías utilizadas en el proyecto (Dentro del entorno virtual):
     
     ``` sh
     pip install "fastapi[all]"
     ```
-8. Volvemos a repetir el paso 4 y comprobamos las versiones instaladas.
+9. Volvemos a repetir el paso 4 y comprobamos las versiones instaladas (Dentro del entorno virtual).
 
     Podemos ver las diferencias 
-<!-- Pendiente Crear requirements -->
-<!-- Pendiente Instalar librerías con requirements -->
-3. Test the endpoints  
+<!-- IMAGENES -->
 
-    Actually the backend has only two endpoints working
-    
-    1. GET ``` http://127.0.0.1:3009 ``` - Response status 200 and Json. The first time the reponse will be an empty array ```[] ``` 
-    2. POST ``` http://127.0.0.1:3009/crear ``` - Response 200 and OK message and Post a preestablished message 
+### Manejando e instalando librerías
+
+En este caso puede parecer sencillo instalar todas las librerías que necesitamos, ya que solo nos bastaría con el comando ```pip install "fastapi[all]" ```, pero sin embargo es probable que otros proyectos mas grandes requieran mas librerías y trabajar con versiones específicas.
+
+A diferencia de otras tecnologías como NodeJS, que maneja sus paquetes y versiones mediante el archivo ```package.json``` que se crea una vez que inicializamos un proyecto. En python deberemos hacerlo de manera manual, lo haremos mediante la creación del archivo ```requirements.txt``` lo haremos siempre dentro del entorno virtual, podemos hacerlo en los siguientes pasos:
+#### Crear requirements.txt
+1. Para crear el archivo ```requirements.txt```
     ```sh
-        {
-        "_id": str,
-        "tipo": "Usuario",
-        "estado": "Feliz",
-        "__v": 0
-        }
-    ``` 
-
-4. Code!
-
-    Write your code, make the API-REST growing up or connect with your frontend.
-
-5. Testing your code
-    - Running the application and review the changes
-    ```sh
-    docker compose up -d
+    python3 -m pip freeze > requirements.txt
     ```
-    - Stop the application
-    ```sh
-      docker compose down
-    ```
+    Si recordamos ```pip freeze``` nos permitía ver todas las librerías instaladas. Al utilizar ```>``` le estamos diciendo, el resultado de ```python3 -m pip freeze``` sácalo en ```requirements.txt```.
 
-8. Add, Commit and Push! 
-```sh
-    git add . 
-    git commit -m "Your Commit" 
-    git push
-```
+2. Si abrimos el archivo ```requirements.txt``` veremos todas librerías y versiones de python utilizadas en el proyecto.
+
+* IMPORTANTE!!!! Si ejecutamos estos comandos, fuera del entorno virtual nos recopilará <b>todas</b> las librerías en nuestro ordenador de manera global.
+Puedes probarlo para ver las diferencias entre instalación *Global vs Entorno Virtual*
+
+#### Instalar con requirements.txt
+1. Para instalar necesitaremos tener el archivo ```requirements.txt```en la raíz del proyecto y tener activado el entorno virtual.
+    ```sh
+    python3 -m pip install -r requirements.txt
+    ```
+    Este comenzará a instalar todas las dependencias dentro de nuestro entorno virtual.
+2. Una vez finalizada podemos comprobar, con 
+    ``` sh
+    python3 -m pip list
+    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -263,48 +269,23 @@ Creado bajo licencia Apache-2.0 visita aquí para mas información [licencia][li
 ## Contact
 
 [![Twitter][twitter-shield]][twitter-url] [![GitHub][github-shield]][github-url]<br/>
-Project Link: [https://github.com/molro/backend](https://github.com/molro/backend)
+Project Link: [Hello-Python](https://github.com/mouredev/Hello-Python/tree/main/Backend/FastAPI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-
+<!-- Python Tools -->
 [python-shield]:https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [python-url]: https://www.python.org
 
 [fastAPI-shield]:https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
 [fastAPI-url]:https://fastapi.tiangolo.com
-
-[nodejs-shield]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[node-url]: https://nodejs.org/en/
-[expressjs-shield]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
-[expressjs-url]: https://expressjs.com
-[mongoDB-shield]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[mongoDB-url]: https://www.mongodb.com
-[mongoose-shield]: https://img.shields.io/badge/mongoose-6.6.5-red
-[mongoose-url]: https://mongoosejs.com
-[docker-shield]:https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[docker-url]: https://www.docker.com
+<!-- Git -->
 [git-shield]:https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [git-url]: https://git-scm.com
-
-[postman-shield]:https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-[postman-url]: https://www.postman.com
-
-
-[twitter-shield]:https://img.shields.io/twitter/follow/molro?style=social
-[twitter-url]:https://www.twitter.com/molro
-[github-shield]:https://img.shields.io/github/followers/molro?style=social
-[github-url]: https://github.com/molro/
-
-[gitMac]:https://git-scm.com/download/mac
-[gitLinux]:https://git-scm.com/download/linux
-[gitWindows32bit]:https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/Git-2.38.1-32-bit.exe 
-[gitWindows]:https://git-scm.com/download/win
-
+<!-- Python -->
 [pylatestmacos]:https://www.python.org/downloads/release/python-3111/
 [pymacos]:https://www.python.org/downloads/macos/
 
@@ -315,11 +296,10 @@ Project Link: [https://github.com/molro/backend](https://github.com/molro/backen
 [pyxz]:https://www.python.org/ftp/python/3.11.1/Python-3.11.1.tar.xz
 
 [pywindowsdockermac-url]:https://docs.docker.com/desktop/install/mac-install/
+<!-- Redes  -->
+[twitter-shield]:https://img.shields.io/twitter/follow/molro?style=social
+[twitter-url]:https://www.twitter.com/molro
+[github-shield]:https://img.shields.io/github/followers/molro?style=social
+[github-url]: https://github.com/molro/
 
-[windowsDocker-url]:https://docs.docker.com/desktop/install/windows-install/#wsl-2-backend
-[windowsdektop-url]:https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe
-
-[linuxdocker-url]:https://docs.docker.com/desktop/faqs/linuxfaqs/#what-is-the-difference-between-docker-desktop-for-linux-and-docker-engine
-[linuxdockerdesktop-url]:https://docs.docker.com/desktop/install/linux-install/
-
-[license-url]:hhttps://github.com/mouredev/Hello-Python/blob/main/LICENSE
+[license-url]:https://github.com/mouredev/Hello-Python/blob/main/LICENSE
