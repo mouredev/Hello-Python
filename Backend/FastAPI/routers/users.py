@@ -2,12 +2,12 @@
 
 ### Users API ###
 
-from fastapi import FastAPI
+from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 
 # Inicia el server: uvicorn users:app --reload
 
-app = FastAPI()
+router = APIRouter()
 
 
 class User(BaseModel):
@@ -24,7 +24,7 @@ users_list = [User(id=1, name="Brais", surname="Moure", url="https://moure.dev",
               User(id=3, name="Brais", surname="Dahlberg", url="https://haakon.com", age=33)]
 
 
-@app.get("/usersjson")
+@router.get("/usersjson")
 async def usersjson():  # Creamos un JSON a mano
     return [{"name": "Brais", "surname": "Moure", "url": "https://moure.dev", "age": 35},
             {"name": "Moure", "surname": "Dev",
@@ -32,19 +32,61 @@ async def usersjson():  # Creamos un JSON a mano
             {"name": "Haakon", "surname": "Dahlberg", "url": "https://haakon.com", "age": 33}]
 
 
-@app.get("/users")
+@router.get("/users")
 async def users():
     return users_list
 
 
-@app.get("/user/{id}")  # Path
+@router.get("/user/{id}")  # Path
 async def user(id: int):
     return search_user(id)
 
 
-@app.get("/user/")  # Query
+@router.get("/user/")  # Query
 async def user(id: int):
     return search_user(id)
+
+
+# Clase en vídeo (08/12/2022): https://www.twitch.tv/videos/1673759045
+
+
+@router.post("/user/", response_model=User, status_code=201)
+async def user(user: User):
+    if type(search_user(user.id)) == User:
+        raise HTTPException(status_code=404, detail="El usuario ya existe")
+
+    users_list.append(user)
+    return user
+
+
+@router.put("/user/")
+async def user(user: User):
+
+    found = False
+
+    for index, saved_user in enumerate(users_list):
+        if saved_user.id == user.id:
+            users_list[index] = user
+            found = True
+
+    if not found:
+        return {"error": "No se ha actualizado el usuario"}
+
+    return user
+
+
+@router.delete("/user/{id}")
+async def user(id: int):
+
+    found = False
+
+    for index, saved_user in enumerate(users_list):
+        if saved_user.id == id:
+            del users_list[index]
+            found = True
+
+    if not found:
+        return {"error": "No se ha eliminado el usuario"}
 
 
 def search_user(id: int):

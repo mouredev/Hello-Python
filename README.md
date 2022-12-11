@@ -20,9 +20,9 @@
 > * Base de datos
 > * Despliegue en servidor
 > 
-> **🔴 SIGUIENTE CLASE: Jueves 8 de Diciembre a las 20:00 (hora España)**
+> **🔴 SIGUIENTE CLASE: Miércoles 14 de Diciembre a las 20:00 (hora España)**
 
-> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/mouredev?event=1048225560637214790) para que consultes la hora de tu país y añadas un recordatorio.
+> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/mouredev?event=1051412181721305158) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > Mientras, aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022) y así ir mejorando poco a poco.
 > 
@@ -40,6 +40,7 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 
 * [Clase 1 - 24/11/2022 - Hola Mundo en FastAPI](https://www.twitch.tv/videos/1661716599)
 * [Clase 2 - 01/12/2022 - Operaciones con GET y peticiones HTTP](https://www.twitch.tv/videos/1667582141)
+* [Clase 3 - 08/12/2022 - Operaciones con POST, PUT, DELETE, códigos HTTP y Routers](https://www.twitch.tv/videos/1673759045)
 
 ### Curso de fundamentos desde cero
 
