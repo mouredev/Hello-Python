@@ -117,11 +117,14 @@ Otra ventaja es la estandarización, tu y todos los desarrolladores que trabajé
 <!-- VERSUS -->
 ### Global vs Entorno Virtual
 
-Para poder explicar las diferencias, podemos apreciar la comparación entre ambas imagenes.
+Para poder explicar las diferencias, podemos apreciar la comparación entre ambas imagenes 
 
+Global</br>
+<img src="https://github.com/molro/Hello-Python/blob/Python-venv/Backend/FastAPI/img_Readme/global.png" />
+Virtual</br>
 <img src="https://github.com/molro/Hello-Python/blob/Python-venv/Backend/FastAPI/img_Readme/env_virtual.png" />
 
-<img src="https://github.com/molro/Hello-Python/blob/Python-venv/Backend/FastAPI/img_Readme/global.png" />
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,11 +231,9 @@ IMPORTANTE!!! Trabajaremos sobre la terminal.
     ``` sh 
     deactivate
     ```
-IMPORTANTE  
-```(venv) ➜  Hello-Python git:(Python-venv) ✗``` 
-  Veremos delante de nuestro prontuario el nombre del directorio donde hemos creado el entorno virutal. Así sabremos siempre si esta activado o no. 
-
-7. Repetimos el paso 4 y comprobamos las versiones instaladas (Dentro del entorno virtual)
+   
+  IMPORTANTE Veremos delante de nuestro prontuario el nombre del directorio donde hemos creado el entorno virutal. Así sabremos siempre si esta activado o no.    ```(venv) ➜  Hello-Python git:(Python-venv) ✗```.  
+7. Repetimos el paso 4 y comprobamos las versiones instaladas (Dentro del entorno virtual).  
 8. Instalamos las librerías utilizadas en el proyecto (Dentro del entorno virtual):
     
     ``` sh
