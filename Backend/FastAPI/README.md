@@ -117,11 +117,14 @@ Otra ventaja es la estandarización, tu y todos los desarrolladores que trabajé
 <!-- VERSUS -->
 ### Global vs Entorno Virtual
 
-Para poder explicar las diferencias, podemos apreciar la comparación entre ambas imagenes.
+Para poder explicar las diferencias, podemos apreciar la comparación entre ambas imagenes 
 
+Global</br>
+<img src="https://github.com/molro/Hello-Python/blob/Python-venv/Backend/FastAPI/img_Readme/global.png" />
+Virtual</br>
 <img src="https://github.com/molro/Hello-Python/blob/Python-venv/Backend/FastAPI/img_Readme/env_virtual.png" />
 
-<img src="https://github.com/molro/Hello-Python/blob/Python-venv/Backend/FastAPI/img_Readme/global.png" />
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
