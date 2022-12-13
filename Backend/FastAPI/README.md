@@ -39,31 +39,36 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<!-- <details>
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About</a>
+      <a href="#intro">Introducción</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#backend">Backend</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#entornos">Entornos virtuales</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installing </a></li>
+        <li><a href="#ventajas">Ventajas</a></li>
+        <li><a href="#versus">Global versus Virtual</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#first-steps">Primeros Pasos</a></li>
+        <ul>
+        <li><a href="#ventajas">Prerequisitos</a></li>
+        <li><a href="#creating">Creando un EV</a></li>
+        <li><a href="#instalando">Instalanado Librerías</a></li>
+      </ul>
+    <li><a href="#license">Licencia</a></li>
+    <li><a href="#contact">Contacto</a></li>
   </ol>
-</details> -->
+</details>
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- INTRO -->
 ## Introducción
 
 Por defecto la instalación de Python, incluye una gran cantidad de librerías de manera nativa y por defecto en la instalación de Python. Sin embargo es habitual el uso de liberías de terceros, como en este caso FastAPI.
@@ -85,6 +90,7 @@ Porqué?
 En este tutorial nos enfocaremos en el uso y desarrollo con entornos virtuales.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- BACKEND -->
 ### Backend
 
 Para comenzar el backend esta creado con:
@@ -94,32 +100,37 @@ Para comenzar el backend esta creado con:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ENTORNOS -->
 ## Qué es un entorno virtual?
 
 Es un directorio autocontenido, que en su interior contiene una instalación de python con la versión particular para ese proyecto. Nos permite instalar además librería de terceros.
 
 Es decir, permite ejecutar un proyecto con python y sus librerías, al mismo tiempo que tenemos otro proyecto con versiones de python y/o librerías distintas, sin necesidad de instalar y desinstalar cada vez que cambiemos de proyecto.
 
+<!-- VENTAJAS -->
 ### Ventajas
 
 La principal ventaja que nos encontramos es que nos permiten la portabilidad de nuestras aplicaciones. Imagina que escribes código, subes al repositorio y un compañero continúa con el proyecto desde su ordenador. El deberá instalar las liberías necesarias, pero puede ocurrir que existan diferentes versiones disponibles, esto lo podemos simplificar con una técnica similar al package.json de NodeJs, técnica que veremos mas adelante.
 
 Otra ventaja es la estandarización, tu y todos los desarrolladores que trabajéis sobre la aplicación utilizaréis las mismas versiones tanto del lenguaje y de las librerías.
 
+<!-- VERSUS -->
 ### Global vs Entorno Virtual
 
 Para poder explicar las diferencias, podemos apreciar la comparación entre ambas imagenes.
-IMG1 GLOBAL 
-IMG 2 LOCAL
+<!-- IMG1 GLOBAL 
+IMG 2 LOCAL -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FIRST-STEPS-->
 ## Primeros pasos 
 
 Crear un entorno virtual es relativamente sencillo, para ello necesitaremos tener instalado:
 * [![Python][python-shield]][python-url]
 * [![Git][git-shield]][git-url]
 * Tu IDE Favorito
+<!-- PRE-REQUISITOS -->
 ### Pre requisitos
 
 Cómo instalar alguna de las herramientas 
@@ -158,6 +169,7 @@ Cómo instalar alguna de las herramientas
   
     * GZipped source tarball [here][pygzip]
     * XZ source tarball [here][pyxz]
+<!-- CREATING -->
 ### Creando Entornos Virtuales 
 
 IMPORTANTE!!! Trabajaremos sobre la terminal.
@@ -223,14 +235,15 @@ IMPORTANTE!!! Trabajaremos sobre la terminal.
     ```
 9. Volvemos a repetir el paso 4 y comprobamos las versiones instaladas (Dentro del entorno virtual).
 
-    Podemos ver las diferencias 
-<!-- IMAGENES -->
+    Podemos ver las diferencias revisando los archivos requirements-global.txt versus requirements.txt
 
+<!-- INSTALANDO -->
 ### Manejando e instalando librerías
 
 En este caso puede parecer sencillo instalar todas las librerías que necesitamos, ya que solo nos bastaría con el comando ```pip install "fastapi[all]" ```, pero sin embargo es probable que otros proyectos mas grandes requieran mas librerías y trabajar con versiones específicas.
 
 A diferencia de otras tecnologías como NodeJS, que maneja sus paquetes y versiones mediante el archivo ```package.json``` que se crea una vez que inicializamos un proyecto. En python deberemos hacerlo de manera manual, lo haremos mediante la creación del archivo ```requirements.txt``` lo haremos siempre dentro del entorno virtual, podemos hacerlo en los siguientes pasos:
+
 #### Crear requirements.txt
 1. Para crear el archivo ```requirements.txt```
     ```sh
