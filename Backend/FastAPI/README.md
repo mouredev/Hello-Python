@@ -231,8 +231,8 @@ IMPORTANTE!!! Trabajaremos sobre la terminal.
     ``` sh 
     deactivate
     ```
-  ```(venv) ➜  Hello-Python git:(Python-venv) ✗```   
-  Veremos delante de nuestro prontuario el nombre del directorio donde hemos creado el entorno virutal. Así sabremos siempre si esta activado o no. 
+   
+  IMPORTANTE Veremos delante de nuestro prontuario el nombre del directorio donde hemos creado el entorno virutal. Así sabremos siempre si esta activado o no.    ```(venv) ➜  Hello-Python git:(Python-venv) ✗```.  
 7. Repetimos el paso 4 y comprobamos las versiones instaladas (Dentro del entorno virtual).  
 8. Instalamos las librerías utilizadas en el proyecto (Dentro del entorno virtual):
     
