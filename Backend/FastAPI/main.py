@@ -8,12 +8,16 @@
 
 from fastapi import FastAPI
 from routers import products, users
+from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
 
 # Routers - Clase en vídeo (08/12/2022): https://www.twitch.tv/videos/1673759045
 app.include_router(products.router)
 app.include_router(users.router)
+
+# Recursos estáticos - Clase en vídeo (14/12/2022): https://www.twitch.tv/videos/1679022882
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
 
 # Url local: http://127.0.0.1:8000
