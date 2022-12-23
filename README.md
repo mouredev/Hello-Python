@@ -12,17 +12,9 @@
 > ---
 > Estoy llevando a cabo un CURSO DESDE CERO gratis para aprender PYTHON en BACKEND.
 > 
-> Veremos temas como:
-> 
-> * API REST
-> * CRUD
-> * Autenticación
-> * Base de datos
-> * Despliegue en servidor
-> 
-> **🔴 SIGUIENTE CLASE: Jueves 22 de Diciembre a las 20:00 (hora España)**
+> **🔴 SIGUIENTE CLASE: Miércoles 28 de Diciembre a las 20:00 (hora España)**
 
-> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/mouredev?event=1052999245826883626) para que consultes la hora de tu país y añadas un recordatorio.
+> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/mouredev?event=1055759221637009508) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > Mientras, aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022) y así ir mejorando poco a poco.
 > 
@@ -42,6 +34,7 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 * [Clase 2 - 01/12/2022 - Operaciones con GET y peticiones HTTP](https://www.twitch.tv/videos/1667582141)
 * [Clase 3 - 08/12/2022 - Operaciones con POST, PUT, DELETE, códigos HTTP y Routers](https://www.twitch.tv/videos/1673759045)
 * [Clase 4 - 14/12/2022 - Recursos estáticos y Autorización OAuth2](https://www.twitch.tv/videos/1679022882) 
+* [Clase 5 - 22/12/2022 - Base de datos con MongoDB](https://www.twitch.tv/videos/1686104006) 
 
 ### Curso de fundamentos desde cero
 
