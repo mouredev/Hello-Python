@@ -1,10 +1,16 @@
 # Hello Python
 
-[![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.88.0+-00a393?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://python.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://python.org)
 
 ## Curso para aprender el lenguaje de programación Python desde cero y para principiantes
 
+![](./Images/header.jpg)
+
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
+
+
 
 ### 🐍 CADA SEMANA UNA NUEVA CLASE EN DIRECTO 🐍
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
