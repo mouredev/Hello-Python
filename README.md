@@ -9,38 +9,10 @@
 ![](./Images/header.jpg)
 
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
+> ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-
-
-### 🐍 CADA SEMANA UNA NUEVA CLASE EN DIRECTO 🐍
-##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
-
-> ---
-> Estoy llevando a cabo un CURSO DESDE CERO gratis para aprender PYTHON en BACKEND.
-> 
-> **🔴 SIGUIENTE CLASE: Miércoles 28 de Diciembre a las 20:00 (hora España)**
-
-> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/mouredev?event=1055759221637009508) para que consultes la hora de tu país y añadas un recordatorio.
-> 
-> Mientras, aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022) y así ir mejorando poco a poco.
-> 
-> *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
-> 
-> ---
 
 ## Clases en vídeo
-
-### [EN CURSO] Backend desde cero
-
-Curso en el que aprenderemos a utilizar Python para backend e implementaremos un API REST con autenticación, base de datos y desplegaremos el proyecto en un servidor real.
-
-> Código: Directorio "Backend" en el proyecto
-
-* [Clase 1 - 24/11/2022 - Hola Mundo en FastAPI](https://www.twitch.tv/videos/1661716599)
-* [Clase 2 - 01/12/2022 - Operaciones con GET y peticiones HTTP](https://www.twitch.tv/videos/1667582141)
-* [Clase 3 - 08/12/2022 - Operaciones con POST, PUT, DELETE, códigos HTTP y Routers](https://www.twitch.tv/videos/1673759045)
-* [Clase 4 - 14/12/2022 - Recursos estáticos y Autorización OAuth2](https://www.twitch.tv/videos/1679022882) 
-* [Clase 5 - 22/12/2022 - Base de datos con MongoDB](https://www.twitch.tv/videos/1686104006) 
 
 ### Curso de fundamentos desde cero
 
@@ -89,42 +61,41 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 * [Lección 9 - Manejo de paquetes](https://youtu.be/TbcEqkabAWU?t=24010)
 * [Próximos pasos](https://youtu.be/TbcEqkabAWU?t=26228)
 
+### Backend desde cero
+
+Curso en el que aprenderemos a utilizar Python para backend e implementaremos un API REST con autenticación, base de datos y desplegaremos el proyecto en un servidor real.
+
+> Código: Directorio "Backend" en el proyecto
+
+* [Clase 1 - 24/11/2022 - Hola Mundo en FastAPI](https://www.twitch.tv/videos/1661716599)
+* [Clase 2 - 01/12/2022 - Operaciones con GET y peticiones HTTP](https://www.twitch.tv/videos/1667582141)
+* [Clase 3 - 08/12/2022 - Operaciones con POST, PUT, DELETE, códigos HTTP y Routers](https://www.twitch.tv/videos/1673759045)
+* [Clase 4 - 14/12/2022 - Recursos estáticos y Autorización OAuth2](https://www.twitch.tv/videos/1679022882) 
+* [Clase 5 - 22/12/2022 - Base de datos con MongoDB](https://www.twitch.tv/videos/1686104006) 
+* [Clase 6 - 28/12/2022 - Despliegue en la nube usando MongoDB Atrlas y Deta](https://www.twitch.tv/videos/1691208894)
+
+**Muy pronto curso editado en YouTube...**
+
 ## Información importante y preguntas frecuentes
 
-* **¿Cómo está estructurado el proyecto y el código?**
-	* Actualmente tienes tres directorios, "Basic", "Intermediate" y "Backend", correspondientes a cómo están agrupados los cursos.
+Actualmente el curso está en pausa. Se han finalizados los bloques básico, intermedio y backend, y ese era el objetivo inicial del proyecto.
+No descarto añadir nuevas lecciones a futuro, pero creo que por el momento puede servir de base a cualquier persona que quiera empezar a aprender este lenguaje.
 
-* **¿Las clases nuevas quedan grabadas?**
-	* Todos los directos de Twitch están disponibles 60 días en la sección [vídeos](https://twitch.tv/mouredev/videos).
+* Recuerda que he creado en el [Discord](https://discord.gg/mouredev) un canal "🐍python" para que puedas comentar lo que quieras.
+* En el momento que el curso continúe, actualizaré el repositorio y avisaré en redes.
 
-* **¿Puedo asistir a las clases en directo si no he visto las anteriores?**
-	* Sí. Son clases independientes en las que hablo de nuevo de conceptos anteriores para que se entiendan de nuevo. Por supuesto, es recomendable que poco a poco visualices las clases anteriores.
+¡Muchísimas gracias por todo el apoyo mostrado!
 
-* **¿Se subirá a YouTube?**
-	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases agrupadas en YouTube.
+## Enlaces de interés
 
-* **¿Harás un curso?**
-	* Agruparé lecciones en YouTube para crear cursos por nivel. Actualmente ya existe el de [fundamentos desde cero](https://youtu.be/Kp4Mvapo5kc) e [intermedio](https://youtu.be/TbcEqkabAWU).
-
-* **¿Hasta dónde llegará el curso?**
-	* Mi idea es repasar los conceptos básicos hasta llegar a crear un backend (en principio).
-
-* **¿Cuándo será la próxima clase?**
-	* Te recomiendo que me sigas en redes, sobre todo en [Discord](https://discord.gg/mouredev) e [Instagram](https://instagram.com/mouredev) donde creo eventos a diario con la hora de emisión (así podrás ver qué hora es en tu país).
-	* También he creado en el Discord un canal "🐍curso-python" para que puedas comentar lo que quieras.
-	* Una vez finalizada la clase subiré los ficheros de código a este repositorio.
-
----
-
-### Enlaces de interés
 * [Web oficial de Python](https://www.python.org/)
 * [Tutorial oficial de Python en Español](https://docs.python.org/es/3/tutorial/index.html)
 * [Repo 30 días de Python](https://github.com/Asabeneh/30-Days-Of-Python)
 * [Juego Codédex para aprender Python](https://www.codedex.io/)
 * [Visual Studio Code](https://code.visualstudio.com/): El editor que estoy usando
 * [FastAPI](https://fastapi.tiangolo.com/es/): El framework para crear nuestra API Backend
-
----
+* [MongoDB](https://www.mongodb.com/): La base de datos que utiliza nuestro backend
+* [Deta](https://www.deta.sh/): Para desplegar nuestra API en la nube
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 

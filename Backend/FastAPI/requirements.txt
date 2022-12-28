@@ -1,0 +1,7 @@
+# Clase en vídeo (28/12/2022): https://www.twitch.tv/videos/1691208894
+fastapi
+python-jose
+passlib
+bcrypt
+pymongo
+python-multipart
