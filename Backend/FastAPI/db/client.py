@@ -1,4 +1,4 @@
-# Clase en vídeo (22/12/2022): https://www.twitch.tv/videos/1686104006
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=20480)
 
 ### MongoDB client ###
 
@@ -15,7 +15,7 @@ from pymongo import MongoClient
 # Base de datos local MongoDB
 db_client = MongoClient().local
 
-# Clase en vídeo (28/12/2022): https://www.twitch.tv/videos/1691208894
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=25470
 
 # Base de datos remota MongoDB Atlas (https://mongodb.com)
 # db_client = MongoClient(

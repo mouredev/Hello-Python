@@ -1,4 +1,4 @@
-# Clase en vídeo (14/12/2022): https://www.twitch.tv/videos/1679022882
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=14094
 
 ### Users API con autorización OAuth2 básica ###
 

@@ -1,4 +1,4 @@
-# Clase en vídeo (01/12/2022): https://www.twitch.tv/videos/1667582141
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=5382
 
 ### Users API ###
 
@@ -47,7 +47,7 @@ async def user(id: int):
     return search_user(id)
 
 
-# Clase en vídeo (08/12/2022): https://www.twitch.tv/videos/1673759045
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=8529
 
 
 @router.post("/user/", response_model=User, status_code=201)

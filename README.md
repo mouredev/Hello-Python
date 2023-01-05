@@ -11,7 +11,6 @@
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-
 ## Clases en vídeo
 
 ### Curso de fundamentos desde cero
@@ -67,14 +66,28 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 
 > Código: Directorio "Backend" en el proyecto
 
-* [Clase 1 - 24/11/2022 - Hola Mundo en FastAPI](https://www.twitch.tv/videos/1661716599)
-* [Clase 2 - 01/12/2022 - Operaciones con GET y peticiones HTTP](https://www.twitch.tv/videos/1667582141)
-* [Clase 3 - 08/12/2022 - Operaciones con POST, PUT, DELETE, códigos HTTP y Routers](https://www.twitch.tv/videos/1673759045)
-* [Clase 4 - 14/12/2022 - Recursos estáticos y Autorización OAuth2](https://www.twitch.tv/videos/1679022882) 
-* [Clase 5 - 22/12/2022 - Base de datos con MongoDB](https://www.twitch.tv/videos/1686104006) 
-* [Clase 6 - 28/12/2022 - Despliegue en la nube usando MongoDB Atrlas y Deta](https://www.twitch.tv/videos/1691208894)
+<a href="https://youtu.be/_y9qQZXE24A"><img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
-**Muy pronto curso editado en YouTube...**
+* [Introducción](https://youtu.be/_y9qQZXE24A)
+* [Lección 01 - ¿Qué es un backend?](https://youtu.be/_y9qQZXE24A?t=125)
+* [Lección 02 - API y FastAPI](https://youtu.be/_y9qQZXE24A?t=834)
+* [Lección 03 - Type Hints](https://youtu.be/_y9qQZXE24A?t=1810)
+* [Lección 04 - Configuración FastAPI](https://youtu.be/_y9qQZXE24A?t=2629)
+* [Lección 05 - Hola mundo](https://youtu.be/_y9qQZXE24A?t=3504)
+* [Lección 06 - Operación GET](https://youtu.be/_y9qQZXE24A?t=5382)
+* [Lección 07 - Peticiones HTTP](https://youtu.be/_y9qQZXE24A?t=5925)
+* [Lección 08 - Creación API](https://youtu.be/_y9qQZXE24A?t=6099)
+* [Lección 09 - Path y Query](https://youtu.be/_y9qQZXE24A?t=7510)
+* [Lección 10 - Operaciones POST, PUT y DELETE](https://youtu.be/_y9qQZXE24A?t=8529)
+* [Lección 11 - HTTP status codes](https://youtu.be/_y9qQZXE24A?t=11072)
+* [Lección 12 - Routers](https://youtu.be/_y9qQZXE24A?t=12475)
+* [Lección 13 - Recursos estáticos](https://youtu.be/_y9qQZXE24A?t=13618)
+* [Lección 14 - Autorización OAuth2](https://youtu.be/_y9qQZXE24A?t=14094)
+* [Lección 15 - OAuth2 JWT](https://youtu.be/_y9qQZXE24A?t=17664)
+* [Lección 16 - MongoDB](https://youtu.be/_y9qQZXE24A?t=20480)
+* [Lección 17 - MongoDB Atlas](https://youtu.be/_y9qQZXE24A?t=25470)
+* [Lección 18 - Despliegue en Deta](https://youtu.be/_y9qQZXE24A?t=27335)
+* [Lección Próximos pasos](https://youtu.be/_y9qQZXE24A?t=28484)
 
 ## Información importante y preguntas frecuentes
 

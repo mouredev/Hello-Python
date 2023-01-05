@@ -1,4 +1,4 @@
-# Clase en vídeo (08/12/2022): https://www.twitch.tv/videos/1673759045
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=12475
 
 ### Products API ###
 

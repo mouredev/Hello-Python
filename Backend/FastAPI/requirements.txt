@@ -1,4 +1,4 @@
-# Clase en vídeo (28/12/2022): https://www.twitch.tv/videos/1691208894
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=27335
 fastapi
 python-jose
 passlib

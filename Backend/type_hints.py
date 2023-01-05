@@ -1,4 +1,4 @@
-# Clase en vídeo (24/11/2022): https://www.twitch.tv/videos/1661716599
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=1810
 
 ### Type Hints ###
 

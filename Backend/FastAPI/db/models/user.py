@@ -1,4 +1,4 @@
-# Clase en vídeo (22/12/2022): https://www.twitch.tv/videos/1686104006
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=20480
 
 ### User model ###
 
