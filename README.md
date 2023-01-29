@@ -89,6 +89,12 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 * [Lección 18 - Despliegue en Deta](https://youtu.be/_y9qQZXE24A?t=27335)
 * [Lección Próximos pasos](https://youtu.be/_y9qQZXE24A?t=28484)
 
+### Extra: 15 curiosidades sobre Python
+
+Y para finalizar... ¿Quieres saber aun más sobre él? Aquí tienes 15 curiosidades que quizás no conozcas sobre el lenguaje.
+
+<a href="https://youtu.be/q2lCm2KAz3w"><img src="http://i3.ytimg.com/vi/q2lCm2KAz3w/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
 ## Información importante y preguntas frecuentes
 
 Actualmente el curso está en pausa. Se han finalizados los bloques básico, intermedio y backend, y ese era el objetivo inicial del proyecto.
