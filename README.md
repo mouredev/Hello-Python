@@ -1,8 +1,9 @@
 # Hello Python
 
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.88.0+-00a393?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://python.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.88.0+-00a393?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
 ## Curso para aprender el lenguaje de programación Python desde cero y para principiantes
 
@@ -10,6 +11,15 @@
 
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
+
+## ¡Nuevo!
+### Aprende a integrar ChatGPT en tu proyecto desde cero
+
+<a href="https://youtu.be/b8COygWdvmw"><img src="http://i3.ytimg.com/vi/b8COygWdvmw/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+Clase de una hora de duración donde aprenderás a interactuar con ChatGPT desde tu aplicación, mantener conversaciones y establecer el contexto de la IA para potenciar tu proyecto.
+
+Con todo el código publicado [aquí](https://gist.github.com/mouredev/58abfbcef017efaf3852e8821564c011).
 
 ## Clases en vídeo
 
@@ -87,7 +97,7 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 * [Lección 16 - MongoDB](https://youtu.be/_y9qQZXE24A?t=20480)
 * [Lección 17 - MongoDB Atlas](https://youtu.be/_y9qQZXE24A?t=25470)
 * [Lección 18 - Despliegue en Deta](https://youtu.be/_y9qQZXE24A?t=27335)
-* [Lección Próximos pasos](https://youtu.be/_y9qQZXE24A?t=28484)
+* [Próximos pasos](https://youtu.be/_y9qQZXE24A?t=28484)
 
 ### Extra: 15 curiosidades sobre Python
 
