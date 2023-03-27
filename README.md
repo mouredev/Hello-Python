@@ -96,8 +96,10 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 * [Lección 15 - OAuth2 JWT](https://youtu.be/_y9qQZXE24A?t=17664)
 * [Lección 16 - MongoDB](https://youtu.be/_y9qQZXE24A?t=20480)
 * [Lección 17 - MongoDB Atlas](https://youtu.be/_y9qQZXE24A?t=25470)
-* [Lección 18 - Despliegue en Deta](https://youtu.be/_y9qQZXE24A?t=27335)
+* [Lección 18 - Despliegue en Deta *](https://youtu.be/_y9qQZXE24A?t=27335)
 * [Próximos pasos](https://youtu.be/_y9qQZXE24A?t=28484)
+
+***ACTUALIZACIÓN Sobre la lección 18:** Deta ha actualizado ligeramente su servicio de despliegue de aplicaciones con FastAPI. Tienes toda la documentación [aquí](https://deta.space/docs/en/quickstart-guides/python#fastapi). También han creado una [guía de migración](https://deta.space/migration/guides/migrate-a-micro/).
 
 ### Extra: 15 curiosidades sobre Python
 
