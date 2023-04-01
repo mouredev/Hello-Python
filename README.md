@@ -101,6 +101,12 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 
 ***ACTUALIZACIÓN Sobre la lección 18:** Deta ha actualizado ligeramente su servicio de despliegue de aplicaciones con FastAPI. Tienes toda la documentación [aquí](https://deta.space/docs/en/quickstart-guides/python#fastapi). También han creado una [guía de migración](https://deta.space/migration/guides/migrate-a-micro/).
 
+### Introducción al Testing
+
+Taller de introducción a testing con Python creado junto a [Carlos Blé](https://www.carlosble.com) y [Miguel A. Gómez](https://softwarecrafters.io), expertos en la materia.
+
+<a href="https://youtu.be/344uwF1z2Gg"><img src="http://i3.ytimg.com/vi/344uwF1z2Gg/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
 ### Extra: 15 curiosidades sobre Python
 
 Y para finalizar... ¿Quieres saber aun más sobre él? Aquí tienes 15 curiosidades que quizás no conozcas sobre el lenguaje.
