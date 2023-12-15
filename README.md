@@ -4,6 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.88.0+-00a393?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
+[![Reflex](https://img.shields.io/badge/Reflex-0.3.6+-5646ED?style=for-the-badge&logo=reflex&logoColor=white&labelColor=101010)](https://reflex.dev)
 
 ## Curso para aprender el lenguaje de programación Python desde cero y para principiantes
 
@@ -98,6 +99,18 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 
 ***ACTUALIZACIÓN Sobre la lección 18:** Deta ha actualizado ligeramente su servicio de despliegue de aplicaciones con FastAPI. Tienes toda la documentación [aquí](https://deta.space/docs/en/quickstart-guides/python#fastapi). También han creado una [guía de migración](https://deta.space/migration/guides/migrate-a-micro/).
 
+### Frontend desde cero
+
+Cursos en los que aprenderemos a utilizar Python para desarrollo web con dos proyectos reales desplegados en producción. Tutoriales en vídeo paso a paso con 9 horas de contenido.
+
+<a href="https://github.com/mouredev/python-web"><img src="http://i3.ytimg.com/vi/n2YrGsXJC6Y/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+[![Curso Python Web](https://img.shields.io/github/stars/mouredev/python-web?label=Curso%20Python%20web&style=social)](https://github.com/mouredev/python-web)
+
+<a href="https://github.com/mouredev/adeviento-web"><img src="http://i3.ytimg.com/vi/h8Tn0ITRoQs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+[![Curso Python Web](https://img.shields.io/github/stars/mouredev/adeviento-web?label=Tutorial%20Python%20web%20extra&style=social)](https://github.com/mouredev/adeviento-web)
+
 ### Aprende a integrar ChatGPT en tu proyecto desde cero
 
 <a href="https://youtu.be/b8COygWdvmw"><img src="http://i3.ytimg.com/vi/b8COygWdvmw/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
@@ -159,7 +172,7 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software desde hace más de 12 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+Soy ingeniero de software desde hace más de 13 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
 
 ### En mi perfil de GitHub tienes más información
 
