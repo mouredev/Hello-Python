@@ -4,7 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.88.0+-00a393?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
-[![Reflex](https://img.shields.io/badge/Reflex-0.3.6+-5646ED?style=for-the-badge&logo=reflex&logoColor=white&labelColor=101010)](https://reflex.dev)
+[![Reflex](https://img.shields.io/badge/Reflex-0.4.6+-5646ED?style=for-the-badge&logo=reflex&logoColor=white&labelColor=101010)](https://reflex.dev)
 
 ## Curso para aprender el lenguaje de programación Python desde cero y para principiantes
 
@@ -105,6 +105,8 @@ Cursos en los que aprenderemos a utilizar Python para desarrollo web con dos pro
 
 <a href="https://github.com/mouredev/python-web"><img src="http://i3.ytimg.com/vi/n2YrGsXJC6Y/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
+<a href="https://github.com/mouredev/python-web"><img src="http://i3.ytimg.com/vi/bNy8OZJfA6I/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
 [![Curso Python Web](https://img.shields.io/github/stars/mouredev/python-web?label=Curso%20Python%20web&style=social)](https://github.com/mouredev/python-web)
 
 <a href="https://github.com/mouredev/adeviento-web"><img src="http://i3.ytimg.com/vi/h8Tn0ITRoQs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
@@ -152,10 +154,6 @@ No descarto añadir nuevas lecciones a futuro, pero creo que por el momento pued
 * [MongoDB](https://www.mongodb.com/): La base de datos que utiliza nuestro backend
 * [Deta](https://www.deta.sh/): Para desplegar nuestra API en la nube
 
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
 Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
 
 [![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
@@ -172,7 +170,7 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software desde hace más de 13 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
 
 ### En mi perfil de GitHub tienes más información
 
