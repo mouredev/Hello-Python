@@ -121,6 +121,14 @@ Clase de una hora de duración donde aprenderás a interactuar con ChatGPT desde
 
 Con todo el código publicado [aquí](https://gist.github.com/mouredev/58abfbcef017efaf3852e8821564c011).
 
+### Traductor de Voz con IA
+
+<a href="https://youtu.be/oxLvf2nDCvQ"><img src="http://i3.ytimg.com/vi/oxLvf2nDCvQ/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+Aprende a desarrollar un traductor de voz a varios idiomas utilizando con IA. Creando su Web y todo en 100 líneas.
+
+Con todo el código publicado [aquí](https://gist.github.com/mouredev/0ea42112751f0187d90d5403d1f333e2).
+
 ### Introducción al Testing
 
 Taller de introducción a testing con Python creado junto a [Carlos Blé](https://www.carlosble.com) y [Miguel A. Gómez](https://softwarecrafters.io), expertos en la materia.
