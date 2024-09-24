@@ -47,7 +47,7 @@ for element in my_dict:
     if element == "Edad":
         break
 else:
-    print("El bluce for para diccionario ha finalizado")
+    print("El bucle for para el diccionario ha finalizado")
 
 print("La ejecución continúa")
 
