@@ -11,7 +11,7 @@ class MyEmptyPerson:
 print(MyEmptyPerson)
 print(MyEmptyPerson())
 
-# Clase con constructor, funciones y popiedades privadas y públicas
+# Clase con constructor, funciones y propiedades privadas y públicas
 
 
 class Person:
