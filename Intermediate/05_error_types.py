@@ -42,8 +42,8 @@ print(my_list[False])
 print(pi)
 
 # ValueError
-#my_int = int("10 Años")
-my_int = int("10")  # Descomentar para Error
+# my_int = int("10 Años") # Descomentar para Error
+my_int = int("10")
 print(type(my_int))
 
 # ZeroDivisionError

@@ -45,8 +45,6 @@ print(re.split(":", my_string))
 print(re.sub("[l|L]ección", "LECCIÓN", my_string))
 print(re.sub("Expresiones Regulares", "RegEx", my_string))
 
-# Clase en vídeo (09/11/22): https://www.twitch.tv/videos/1648023317
-
 ### Regular Expressions Patterns ###
 
 # Para aprender y validar expresiones regulares: https://regex101.com

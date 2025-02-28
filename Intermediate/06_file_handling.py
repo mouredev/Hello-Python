@@ -32,10 +32,7 @@ with open("Intermediate/my_file.txt", "a") as my_other_file:
 
 # os.remove("Intermediate/my_file.txt")
 
-# Clase en vídeo (03/11/22): https://www.twitch.tv/videos/1642512950
-
 # .json file
-
 
 json_file = open("Intermediate/my_file.json", "w+")
 
