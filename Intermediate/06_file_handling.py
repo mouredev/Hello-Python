@@ -10,24 +10,43 @@ import os
 # .txt file
 
 # Leer, escribir y sobrescribir si ya existe
-txt_file = open("Intermediate/my_file.txt", "w+")
+txt_file = open("my_file.txt", "w+")
 
 txt_file.write(
     "Mi nombre es Brais\nMi apellido es Moure\n35 años\nY mi lenguaje preferido es Python")
 
-# print(txt_file.read())
+# Posiciona el cursor al inicio del fichero
+txt_file.seek(0)
+
+# Lee e imprime todo el contenido del fichero
+print(txt_file.read())
+
+# Lee e imprime 10 caracteres desde el inicio del fichero
+txt_file.seek(0)
 print(txt_file.read(10))
+
+# Lee e imprime el resto de la línea actual desde la posición 11
 print(txt_file.readline())
+
+# Lee e imprime la siguiente línea
 print(txt_file.readline())
+
+# Lee e imprime las líneas restantes del fichero
 for line in txt_file.readlines():
     print(line)
 
+# Escribe una nueva línea en el fichero
 txt_file.write("\nAunque también me gusta Kotlin")
-print(txt_file.readline())
 
+# Posiciona el cursor al inicio del fichero, lee e imprime todo su contenido
+txt_file.seek(0)
+print(txt_file.read())
+
+# Cierra el fichero
 txt_file.close()
 
-with open("Intermediate/my_file.txt", "a") as my_other_file:
+# Agrega una nueva línea en el fichero
+with open("my_file.txt", "a") as my_other_file:
     my_other_file.write("\nY Swift")
 
 # os.remove("Intermediate/my_file.txt")
