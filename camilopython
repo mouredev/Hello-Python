@@ -1,0 +1,151 @@
+#Solucion ejercicio #01 retos de programacion MOUREDEV
+
+#operadores aritmeticos
+
+print(f"suma: 10 + 5 = {10 + 5}")
+print(f"resta: 10 - 5 = {10 - 5}")
+print(f"multiplicacion: 10 * 5 = {10 * 5}")
+print(f"division: 10 / 5 = {10 / 5}")
+print(f"modulo: 10 % 5 = {10 % 5 }")
+print(f"exponente: 10 ** 5 = {10 ** 5 }")
+print(f"division entera: 10 // 5 = {10 // 5 }")
+
+#operadores logicos
+vr = 5
+print(vr > 2 and vr < 10)
+print(vr > 2 or vr < 10)
+print(not(vr > 2))
+
+#operadores de comparacion
+v1 = 10
+print(v1 == 10)
+print(v1 != 10)
+print(v1 > 10)
+print(v1 < 10)
+print(v1 >= 10)
+print(v1 <= 10)
+
+#operadores de asignacion
+x = 15
+x += 5
+print(x)
+
+x1 = 15
+x1 -= 5
+print(x1)
+
+x2 = 15
+x2 *= 5
+print(x2)
+
+x3 = 15
+x3 /= 5
+print(x3)
+
+x4 = 15
+x4 //= 5
+print(x4)
+
+x5 = 15
+x5 %= 20
+print(x5)
+
+x6 = 15
+x6 **= 5
+print(x6)
+
+x7 = 15
+x7 &= 5
+print(x7)
+
+x8 = 15
+x8 |= 5
+print(x8)
+
+x9 = 15
+x9 ^= 5
+print(x9)
+
+#operadores identidad
+var = 10
+var1 = 20
+print(var is var1)
+print(var is not var1)
+
+#operadores pertenencia
+var2 = ["manzana" , "platano" , "pera"]
+print("manzana" is var2)
+print("aguacate" is not var2)
+
+#operadores bitwise
+a = 5        
+b = 3   
+
+print(a & b)   
+print(a | b)   
+print(a ^ b)   
+print(~a)      
+print(a << 1)  
+print(a >> 1)  
+
+#estructuras de control con manejo de excepciones
+
+#try
+try: 
+  numero = int(input("digita un valor:"))
+  resultado = 20 / numero
+  print("resultado:",resultado)
+except ValueError:
+    print("el valor ingresado no es un dato valido")
+except ZeroDivisionError:
+    print("no se puede dividir por cero")
+
+#except
+try:
+  a = int(input("digite el numerador"))
+  b = int(input("digite el denominador"))
+  operacion = a / b
+  print (operacion)
+except ValueError:
+  print("los datos digitados no son validos")
+except ZeroDivisionError:
+  print("no puedes dividir por cero")
+  
+#else
+
+num1 = int(input("digita el primer valor"))
+num2 = int(input("digita el segundo valor"))
+if num1 > num2:
+  print("el primer valor es mayor al segundo")
+elif num1 < num2:
+  print("el primer valor es menor al segundo")
+else: 
+  print("los valores son iguales")
+
+#estructuras condicionales
+var_1 = int(input("digita un numero: "))
+var_2 = 20
+if var_1 > var_2:
+  print(f"el numero: {var_1} es mayor que {var_2}")
+elif var_1 < var_2:
+   print(f"el numero: {var_1} es menor que {var_2}")
+else:
+  print(f"el valor es igual que {var_2}")
+
+#estructuras iterativas
+contador = 1
+while contador < 10:
+  print(f"El contador es: {contador}")
+  contador += 2
+
+for i in range(30):
+  if i == 25:
+    break
+  print(i)
+
+#ejercicio dificultad extra
+
+for i1 in range(55):
+  if i1 % 2 == 0:
+    print(i1)
+    i1 +=10
