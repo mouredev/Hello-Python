@@ -3,10 +3,9 @@
 ### Users DB API ###
 
 from fastapi import APIRouter, HTTPException, status
-# Utilizo ..db para hacer referencia a la ruta relativa (y así no tener problemas en el despliegue)
-from ..db.models.user import User
-from ..db.schemas.user import user_schema, users_schema
-from ..db.client import db_client
+from db.models.user import User
+from db.schemas.user import user_schema, users_schema
+from db.client import db_client
 from bson import ObjectId
 
 router = APIRouter(
