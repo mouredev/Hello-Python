@@ -22,5 +22,10 @@ db_client = MongoClient().local
 #     "mongodb+srv://<user>:<password>@<url>/?retryWrites=true&w=majority").test
 
 # Despliegue API en la nube:
-# Deta - https://www.deta.sh/
-# Intrucciones - https://fastapi.tiangolo.com/deployment/deta/
+# Deta (deprecado) - https://www.deta.sh/
+# Vercel - https://www.vercel.com
+# Instrucciones - https://cleverzone.medium.com/fastapi-deployment-into-vercel-0fa4e6478014
+# MUY IMPORTANTE - Al desplegar en producción, preparar el proyecto para trabajar con variables de entorno que hagan referencia a datos sensibles:
+# - Nunca subas a un repositorio público el valor de las variables
+# - Puedes usar dotenv en Python
+# - Añade el valor de las variables desde el proveedor de hosting
