@@ -8,9 +8,11 @@ from db.schemas.user import user_schema, users_schema
 from db.client import db_client
 from bson import ObjectId
 
-router = APIRouter(prefix="/userdb",
-                   tags=["userdb"],
-                   responses={status.HTTP_404_NOT_FOUND: {"message": "No encontrado"}})
+router = APIRouter(
+    prefix="/userdb",
+    tags=["userdb"],
+    responses={status.HTTP_404_NOT_FOUND: {"message": "No encontrado"}}
+)
 
 
 @router.get("/", response_model=list[User])

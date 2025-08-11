@@ -7,16 +7,17 @@ from pydantic import BaseModel
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 from jose import jwt, JWTError
 from passlib.context import CryptContext
-from datetime import datetime, timedelta
-import timezone
+from datetime import datetime, timedelta, timezone
 
 ALGORITHM = "HS256"
 ACCESS_TOKEN_DURATION = 1
 SECRET = "201d573bd7d1344d3a3bfce1550b69102fd11be3db6d379508b6cccc58ea230b"
 
-router = APIRouter(prefix="/jwtauth",
-                   tags=["jwtauth"],
-                   responses={status.HTTP_404_NOT_FOUND: {"message": "No encontrado"}})
+router = APIRouter(
+    prefix="/jwtauth",
+    tags=["jwtauth"],
+    responses={status.HTTP_404_NOT_FOUND: {"message": "No encontrado"}}
+)
 
 oauth2 = OAuth2PasswordBearer(tokenUrl="login")
 
