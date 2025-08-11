@@ -7,7 +7,7 @@
 # Instala FastAPI: pip install "fastapi[all]"
 
 from fastapi import FastAPI
-from routers import products, users, basic_auth_users, jwt_auth_users, users_db
+from .routers import products, users, basic_auth_users, jwt_auth_users, users_db
 from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
