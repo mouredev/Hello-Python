@@ -7,7 +7,7 @@
 # Instala FastAPI: pip install "fastapi[all]"
 
 from fastapi import FastAPI
-from routers import products, users, basic_auth_users, jwt_auth_users, users_db
+from .routers import products, users, basic_auth_users, jwt_auth_users, users_db
 from fastapi.staticfiles import StaticFiles
 import os
 
@@ -27,7 +27,9 @@ app.include_router(jwt_auth_users.router)
 app.include_router(users_db.router)
 
 # Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=13618
-app.mount("/static", StaticFiles(directory="static"), name="static")
+# Nos aseguramos de obtener la ruta completa al directorio "static"
+static_dir = os.path.join(os.path.dirname(__file__), "static")
+app.mount("/static", StaticFiles(directory=static_dir), name="static")
 
 
 # Url local: http://127.0.0.1:8000
