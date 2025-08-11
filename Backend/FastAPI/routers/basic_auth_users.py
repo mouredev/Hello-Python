@@ -28,14 +28,14 @@ users_db = {
     "mouredev": {
         "username": "mouredev",
         "full_name": "Brais Moure",
-        "email": "braismoure@mourede.com",
+        "email": "braismoure@mouredev.com",
         "disabled": False,
         "password": "123456"
     },
     "mouredev2": {
         "username": "mouredev2",
         "full_name": "Brais Moure 2",
-        "email": "braismoure2@mourede.com",
+        "email": "braismoure2@mouredev.com",
         "disabled": True,
         "password": "654321"
     }
