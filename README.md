@@ -92,7 +92,7 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 - [Lección 18 - Despliegue en Deta \*](https://youtu.be/_y9qQZXE24A?t=27335)
 - [Próximos pasos](https://youtu.be/_y9qQZXE24A?t=28484)
 
-**\*ACTUALIZACIÓN Sobre la lección 18:** Deta, el servicio utilizado para el despliegue durante el curso, ya no existe. Te recomiendo revisar la documentación oficial de FastAPI sobre [despliegue](https://fastapi.tiangolo.com/deployment/) y utilizar alguno de los [proveedores gratuitos](https://fastapi.tiangolo.com/deployment/cloud/) recomendados, como [Render](https://render.com/).
+**\*ACTUALIZACIÓN Sobre la lección 18:** Deta, el servicio utilizado para el despliegue durante el curso, ya no existe. Te recomiendo revisar la documentación oficial de FastAPI sobre [despliegue](https://fastapi.tiangolo.com/deployment/). Puedes utilizar alguno de los [proveedores gratuitos](https://fastapi.tiangolo.com/deployment/cloud/) recomendados. En mi caso, te dejo el fichero de configuración para hacerlo desde [Vercel](https://vercel.com/).
 
 ### Frontend desde cero
 
@@ -155,7 +155,7 @@ No descarto añadir nuevas lecciones a futuro, pero creo que por el momento pued
 - [Visual Studio Code](https://code.visualstudio.com/): El editor que estoy usando
 - [FastAPI](https://fastapi.tiangolo.com/es/): El framework para crear nuestra API Backend
 - [MongoDB](https://www.mongodb.com/): La base de datos que utiliza nuestro backend
-- [Render](https://render.com/): Para desplegar nuestra API en la nube
+- [Vercel](https://vercel.com/): Para desplegar nuestra API en la nube
 
 ## Únete al campus de programación de la comunidad
 

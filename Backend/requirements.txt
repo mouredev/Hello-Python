@@ -1,5 +1,6 @@
 # Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=27335
 fastapi
+uvicorn
 python-jose
 passlib
 bcrypt
