@@ -1,8 +1,5 @@
-# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=27335
-fastapi
-uvicorn
+fastapi[standard]
 python-jose
 passlib
 bcrypt
 pymongo
-python-multipart
