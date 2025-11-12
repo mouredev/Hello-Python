@@ -2,16 +2,27 @@
 
 ### Python Package Manager ###
 
+##PIP (Python Install Packages)
+#this command can be install new packages and utilities for different purposes from PyPi repository
+
 # PIP https://pypi.org
 
 # pip install pip
 # pip --version
 
-# pip install numpy
+# pip install pandas (pandas is a data analysis library)
+# pip install requests (requests is a library to make HTTP requests)
+# pip install numpy (numpy is a library for numerical computing)
+
 import pandas
 from mypackage import arithmetics
 import requests
 import numpy
+
+# some packages can be used from a alias to simplify their use
+# import numpy as np
+# this is a common practice for numpy package
+# import pandas as pd
 
 print(numpy.version.version)
 

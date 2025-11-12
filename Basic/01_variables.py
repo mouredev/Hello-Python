@@ -18,6 +18,8 @@ print(my_bool_variable)
 # Concatenación de variables en un print
 print(my_string_variable, my_int_to_str_variable, my_bool_variable)
 print("Este es el valor de:", my_bool_variable)
+# Puedes concatenar mediante f string :)
+print(f"Este es el valor de: {my_bool_variable} concatenado mediante f string")
 
 # Algunas funciones del sistema
 print(len(my_string_variable))
